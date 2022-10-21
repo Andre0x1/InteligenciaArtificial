@@ -1,0 +1,901 @@
+﻿,id,job_title,job_role,job_location,easy_apply,company_name,salary,company_rating,min_salary,max_salary
+1,1008079793339,Software Developer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$100,000 - $125,000 ",4.5,100000.0,125000.0
+2,1007607350396,Software Developer,Software Developer,Remote,true,TherapyNotes.com,"$63,000 - $81,472 ",4,63000.0,81472.0
+3,1008062785194,Software Developer,Software Developer for Web with Azure backend,"Lexington, KY",true,CentrAlert Inc.,"$65,000 - $120,000 ",4,65000.0,120000.0
+4,1007190807289,Software Developer,Full Stack Web Developers - Senior & Junior,"Albany, NY",true,MM Hayes,"$120,000 ",3.7,120000.0,120000.0
+5,1007961472868,Software Developer,Full Stack Developer,"Kernersville, NC",true,Best Logistics Group,"$120,000 ",3.9,120000.0,120000.0
+6,1007923843916,Software Developer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,$50 Per Hour,4.3,78000.0,78000.0
+7,1008062673549,Software Developer,PHP Full Stack Web Developer,"Oklahoma City, OK",true,BealsCunningham Strategic Services,"$63,122 - $93,230 ",4.1,63122.0,93230.0
+8,1008086199196,Software Developer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,"$59,758 - $84,224 ",4.1,59758.0,84224.0
+9,1008091512712,Software Developer,Senior Web Application Developer,Remote,true,Fund&Grow,"$57,361 - $83,992 ",1.8,57361.0,83992.0
+10,1008078902333,Software Developer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$40,000 - $65,000 ",4.6,40000.0,65000.0
+11,1007927151667,Software Developer,Senior Web Developer,Remote,true,Central Restaurant Products,"$100,000 - $150,000 ",5,100000.0,150000.0
+12,1008032945707,Software Developer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$70,000 ",3.5,70000.0,70000.0
+13,1008067537698,Software Developer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$50,000 - $65,000 ",4.4,50000.0,65000.0
+14,1007668728524,Software Developer,Web Designer,"Concord, NH",true,Windwood Productions LLC,"$90,000 ",3.7,90000.0,90000.0
+15,1007861789748,Software Developer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,"$45,000 - $60,000 ",3.7,45000.0,60000.0
+16,1007977651989,Software Developer,Full Stack Developer - Angular 11+ & Laravel,Remote,true,Lightspeed Voice,"$80,000 - $95,000 ",2.3,80000.0,95000.0
+17,1008064917217,Software Developer,Web Designer,"Roswell, GA",true,Konnektive Corporation,"$45,000 - $65,000 ",3.7,45000.0,65000.0
+18,1007837579345,Software Developer,Senior Web Developer,Remote,true,Diagram,"$50,790 - $72,540 ",2.3,50790.0,72540.0
+19,1007473414995,Software Developer,Web Designer,"Tampa, FL",true,Mediagistic,"$45,000 - $60,000 ",4.3,45000.0,60000.0
+20,1008091244863,Software Developer,Senior Web Developer,"Annapolis, MD",true,Liquified Creative,"$61,538 - $90,819 ",3.5,61538.0,90819.0
+21,1008091413530,Software Developer,Developer II,Remote,false,Elevance Health,"$70,000 - $90,000 ",3.8,70000.0,90000.0
+22,1008005448180,Software Developer,Web Developer- Hybrid Schedule,"Chester, NY",false,Mediacom Communications Corporation,"$67,001 - $103,330 ",4.4,67001.0,103330.0
+23,1007840464982,Software Developer,Front End Web Developer,"Traverse City, MI",true,Knorr Marketing,"$55,289 - $87,831 ",,55289.0,87831.0
+24,1007922988006,Software Developer,Web Designer/Developer,"Pickerington, OH",true,Five Star Heating & Cooling,"$85,000 - $115,000 ",,85000.0,115000.0
+25,1007841950872,Software Developer,EDI Software Engineer II (Remote),Remote,false,American Specialty Health Incorporated,,,,
+26,1007442508015,Software Developer,PHP Web Developer,"Traverse City, MI",true,Knorr Marketing,,,,
+27,1008063524012,Software Developer,In-House Web Developer,"Irvine, CA",true,Omega Accounting Solutions,,,,
+28,1008091750791,Software Developer,Software Developer,"Metairie, LA",true,"Orthosynetics, Inc",,,,
+29,1007720203539,Software Developer,Web Developer w/Polygraph,"Chantilly, VA",false,General Dynamics,,,,
+30,1008074138955,Software Developer,Full Stack Web Developer,"Boulder, CO",true,"SHOTOVER Systems, Inc.",,,,
+31,1008067179269,Web Developer,Magento Developer,Remote,true,Cadence Labs,"$100,000 - $110,000 ",3.7,100000.0,110000.0
+32,1008091419590,Web Developer,.Net / Angular Web Software Developer,Remote,true,Fuel Travel,"$60,000 - $65,000 ",4.4,60000.0,65000.0
+33,1008087012225,Web Developer,Web Developer,Remote,true,Everlight Solar,"$45,000 - $65,000 ",3.7,45000.0,65000.0
+34,1008005448180,Web Developer,Web Developer- Hybrid Schedule,"Chester, NY",false,Mediacom Communications Corporation,$22 - $24 Per Hour,5,34320.0,37440.0
+35,1008086420838,Web Developer,Project Coordinator/Web Designer,Remote,true,i-Showcase,"$80,000 - $120,000 ",3.3,80000.0,120000.0
+36,1007937029531,Web Developer,PHP Web Developer,"Roswell, GA",true,Konnektive Corporation,$60 - $65 Per Hour,5,93600.0,101400.0
+37,1008092198592,Web Developer,"Senior .NET Developer (Contract to Hire, No C2C)","Phoenix, AZ",true,"Exclusent, Inc.","$65,000 - $80,000 ",3.7,65000.0,80000.0
+38,1007840704016,Web Developer,Web Application Developer,"Fontana, CA",true,Williams-Sonoma-Supply Chain,$40 - $45 Per Hour,4,62400.0,70200.0
+39,1008074287715,Web Developer,React JS Front End Developer,Remote,true,Better Talent,$47 - $51 Per Hour,3.6,73320.0,79560.0
+40,1008086452334,Web Developer,Front End Developer,Remote,true,"Alipes, Inc","$95,000 - $110,000 ",3.6,95000.0,110000.0
+41,1008088370174,Web Developer,Developer,Remote,true,JGS Insurance,"$60,000 ",2.7,60000.0,60000.0
+42,1008088620354,Web Developer,Web Developer,Remote,true,"The Next Step, Inc.","$53,188 - $75,559 ",3.9,53188.0,75559.0
+43,1008089434599,Web Developer,Web Designer/Developer,"Cincinnati, OH",true,LCS - London Computer Systems,"$60,000 - $70,000 ",3.6,60000.0,70000.0
+44,1008088820343,Web Developer,Web Developer,"Minnetonka, MN",true,"Tax Materials, Inc.",$30 - $36 Per Hour,4.2,46800.0,56160.0
+45,1007973297537,Web Developer,Junior Content Specialist/Web Developer,Remote,true,Sanametrix,$49 - $56 Per Hour,5,76440.0,87360.0
+46,1008089280526,Web Developer,"Front End Developer (TCLD-0714) // US or GC // On-site Chevy Chase, MD","Chevy Chase, MD",true,Dantech Corporation,"$52,000 - $65,000 ",3.6,52000.0,65000.0
+47,1008086090845,Web Developer,Junior Web Developer,"Harrisburg, PA",true,"Web Clients, LLC","$84,525 - $92,563 ",3.8,84525.0,92563.0
+48,1008089027551,Web Developer,React Developer,Remote,true,Acquire Interactive,"$95,000 ",4.5,95000.0,95000.0
+49,1008082475268,Web Developer,Backend Developer,"Brooklyn, NY",true,Appliances Connection,$25 Per Hour,3.9,39000.0,39000.0
+50,1007611984163,Web Developer,Full Stack Web Developer - Entry Level,St Louis Park,false,Aston Technologies Inc.,"$40,000 - $50,000 ",,40000.0,50000.0
+51,1008058915943,Web Developer,Junior Web Developer,Remote,true,"POP Sells, LLC","$56,815 - $82,793 ",,56815.0,82793.0
+52,1008091816048,Web Developer,Web Developer,"Fredericksburg, VA",true,Federal Staffing Solutions Inc.,"$90,000 - $110,000 ",,90000.0,110000.0
+53,1008081628978,Web Developer,Developer,"Denver, CO",false,Janus Henderson,"$51,689 - $76,027 ",,51689.0,76027.0
+54,1008063124835,Web Developer,Web Developer,"Hilton Head Island, SC",true,Hilton Head Hospitality Company,"$60,000 - $200,000 ",,60000.0,200000.0
+55,1007921572319,Web Developer,Web Developer,"Wall, NJ",true,Trinity Solar Careers,"$78,000 ",,78000.0,78000.0
+56,1008086229805,Web Developer,eCommerce Web Developer - JavaScript Focus,Remote,true,oBundle,"$75,000 - $100,000 ",,75000.0,100000.0
+57,1008089023069,Web Developer,Senior React Web Developer,"New York, NY",true,Confidential,"$37,500 - $50,000 ",,37500.0,50000.0
+58,1007915758186,Web Developer,HTML Email Developer,Remote,true,Liberty University,"$49,000 - $77,739 ",,49000.0,77739.0
+59,1008091114716,Web Developer,Web Developer (NOT Remote),"Des Moines, IA",true,Flying Hippo,"$165,000 ",,165000.0,165000.0
+60,1007206138444,Web Developer,PHP Developer,Remote,true,Revint Solutions,,,,
+61,1007954790314,Applications Engineer,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+62,1008012158867,Applications Engineer,Front End Web Developer - hybrid,"Newtown Square, PA",false,Amerihealth,"$84,668 - $118,156 ",3.4,84668.0,118156.0
+63,1008017687281,Applications Engineer,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$100,000 - $125,000 ",3.2,100000.0,125000.0
+64,1008079793339,Applications Engineer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$63,000 - $81,472 ",4.5,63000.0,81472.0
+65,1007607350396,Applications Engineer,Software Developer,Remote,true,TherapyNotes.com,"$65,000 - $120,000 ",4,65000.0,120000.0
+66,1008062785194,Applications Engineer,Software Developer for Web with Azure backend,"Lexington, KY",true,CentrAlert Inc.,"$100,000 - $125,000 ",4,100000.0,125000.0
+67,1007991629121,Applications Engineer,Geographic Information Systems (GIS) Applications Developer II,"Perris, CA",false,Eastern Municipal Water District,"$52,750 - $74,675 ",4.2,52750.0,74675.0
+68,1007190807289,Applications Engineer,Full Stack Web Developers - Senior & Junior,"Albany, NY",true,MM Hayes,"$85,000 - $115,000 ",4.6,85000.0,115000.0
+69,1007768087133,Applications Engineer,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$62,343 - $93,147 ",4.2,62343.0,93147.0
+70,1008079077688,Applications Engineer,Web Development Technician - Top Secret/SCI security clearance required,"Offutt A F B, NE",true,"Spiral Solutions and Technologies, Inc.","$87,500 ",3.1,87500.0,87500.0
+71,1007927041559,Applications Engineer,Web Developer,"Greenville, NC",false,East Carolina University,"$70,000 - $110,000 ",4.1,70000.0,110000.0
+72,1008012520693,Applications Engineer,Senior Web Developer,"Brentwood, TN",true,Conversion Interactive Agency,"$85,000 - $110,000 ",3.8,85000.0,110000.0
+73,1007826416423,Applications Engineer,Software Developer,"Bridgeton, MO",false,Hunter Engineering,"$57,237 - $83,672 ",4.3,57237.0,83672.0
+74,1007668182276,Applications Engineer,Magento / PHP Developer,"Denver, CO",false,DISH,"$63,366 - $85,857 ",2.9,63366.0,85857.0
+75,1007696390471,Applications Engineer,Backend and Interoperability Software Developer,Remote,true,Zynex Medical,"$80,000 - $100,000 ",2.7,80000.0,100000.0
+76,1007349470060,Applications Engineer,Sr. Web PHP/LAMP Developer,"Los Angeles, CA",true,Curacao,"$75,000 - $125,000 ",4,75000.0,125000.0
+77,1007938044225,Applications Engineer,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$120,000 ",2.7,120000.0,120000.0
+78,1007973068473,Applications Engineer,Senior Backend JavaScript Developer,"Davenport, IA",false,TapOnIt Mobile Deals,"$120,000 ",3.2,120000.0,120000.0
+79,1008039461383,Applications Engineer,.NET (CMS) Web Developer,"Bethesda, MD",false,agencyQ,"$90,829 - $133,931 ",3.7,90829.0,133931.0
+80,1007806904064,Applications Engineer,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$89,758 - $135,738 ",4.5,89758.0,135738.0
+81,1007961472868,Applications Engineer,Full Stack Developer,"Kernersville, NC",true,Best Logistics Group,$16 - $19 Per Hour,3.8,24960.0,29640.0
+82,1007923843916,Applications Engineer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,"$80,000 - $130,000 ",,80000.0,130000.0
+83,1007771669185,Applications Engineer,Full Stack Engineer,"Atlanta, GA",false,"Unifi Aviation, LLC","$77,824 - $113,403 ",,77824.0,113403.0
+84,1008062673549,Applications Engineer,PHP Full Stack Web Developer,"Oklahoma City, OK",true,BealsCunningham Strategic Services,,,,
+85,1007873977043,Applications Engineer,Senior Web Developer,"Lake Forest, CA",true,Ethika Inc,,,,
+86,1008086199196,Applications Engineer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,,,,
+87,1008071956911,Applications Engineer,Graphic Designer/Web Designer,"Greensboro, GA",true,"Greer Force Marketing, LLC.",,,,
+88,1007961980812,Applications Engineer,Front End Developer (Secret Clearance),"Arlington, VA",true,GXM Consulting LLC,,,,
+89,1007733641281,Applications Engineer,Backend Developer- Eventlink,Remote,true,SDI Innovations,,,,
+90,1007818208481,Applications Engineer,Sr IT Specialist - Ecommerce Developer Magento,"Waukegan, IL",false,Abbott Laboratories,,,,
+91,1008091419590,Web Developer,.Net / Angular Web Software Developer,Remote,true,Fuel Travel,$47 - $51 Per Hour,3.7,73320.0,79560.0
+92,1008086452334,Web Developer,Front End Developer,Remote,true,"Alipes, Inc",$40 - $45 Per Hour,5,62400.0,70200.0
+93,1008074287715,Web Developer,React JS Front End Developer,Remote,true,Better Talent,$50 - $65 Per Hour,4.4,78000.0,101400.0
+94,1008092227932,Web Developer,Web Developer,"Bethesda, MD",true,"Latitude, Inc.",$65 - $75 Per Hour,3.9,101400.0,117000.0
+95,1008091748957,Web Developer,Web Developer,"The Woodlands, TX",true,Robert Half,$60 - $75 Per Hour,4.1,93600.0,117000.0
+96,1008090127016,Web Developer,REMOTE - .Net Web Developer (API And Blazor Required),"Atlanta, GA",false,TEKsystems,"$60,000 - $70,000 ",4.9,60000.0,70000.0
+97,1007029812074,Web Developer,Front End Web Developer -- HTML/CSS/Javascript - $60K to $70K,Remote,true,Jarvis Recruitment,"$100,000 - $115,000 ",3.9,100000.0,115000.0
+98,1008091749042,Web Developer,Front End Web Developer,"Tacoma, WA",true,Robert Half,$10 - $13 Per Hour,5,15600.0,20280.0
+99,1008088452203,Web Developer,Web Developer,Remote,true,AVNA Learning Center,$65 - $70 Per Hour,4,101400.0,109200.0
+100,1008080998195,Web Developer,Web Developer,Remote,true,TSN Partners,$45 - $60 Per Hour,5,70200.0,93600.0
+101,1008085593972,Web Developer,ReactJS Developer,Remote,true,Vertex IT Service,$65 - $70 Per Hour,5,101400.0,109200.0
+102,1008085843369,Web Developer,Web Developer (Part-Time),Remote,true,Apptrics LLC,$35 - $65 Per Hour,4.3,54600.0,101400.0
+103,1008053750779,Web Developer,Python Developer,Remote,true,Triunity software Inc.,"$53,864 - $77,312 ",4.4,53864.0,77312.0
+104,1008091253958,Web Developer,Web Developer,"Salt Lake City, UT",false,Medical Review Institute,$40 - $120 Per Hour,3.6,62400.0,187200.0
+105,1008091018776,Web Developer,Python Developer,"New York, NY",true,Purple Drive Technologies,$50 - $72 Per Hour,3.6,78000.0,112320.0
+106,1008085767619,Web Developer,Web Developer,Remote,true,Quest Diagnostics,$48 - $58 Per Hour,4.5,74880.0,90480.0
+107,1008055986447,Web Developer,Web Developer,Remote,true,ICS,$25 Per Hour,2.9,39000.0,39000.0
+108,1007733748272,Web Developer,Junior Web Developer,Remote,false,GetUWired,"$80,000 - $110,000 ",4.1,80000.0,110000.0
+109,1008086300452,Web Developer,Web Developer,"Beverly Hills, CA",true,Beverly Cleaners,"$80,000 - $110,000 ",4.6,80000.0,110000.0
+110,1007945432850,Web Developer,Jr. Web Developer,Remote,true,Trufl Inc,$63 - $68 Per Hour,4,98280.0,106080.0
+111,1007943047010,Web Developer,Jr. Web Developer,Remote,true,Trufl,"$70,000 - $80,000 ",,70000.0,80000.0
+112,1008081531380,Web Developer,GA TECH - Web Developer (Part-Time) (Remote),Remote,true,Samjose Infotech,"$50,000 - $60,000 ",,50000.0,60000.0
+113,1008081481984,Web Developer,Jr .Net Developer,Remote,true,Softnice Inc.,$25 Per Hour,,39000.0,39000.0
+114,1008091090950,Web Developer,Web Developer,"Naples, FL",true,HealthLynked,"$86,400 - $129,600 ",,86400.0,129600.0
+115,1008067563984,Web Developer,Web (JavaScript) Developer Apprentice,"Boulder, CO",false,Inspiring Applications,,,,
+116,1008091244448,Web Developer,Web Developer,"Fort Worth, TX",true,QUALTECH RPO,,,,
+117,1008091124528,Web Developer,Python Developer,Remote,true,Dataedge USA,,,,
+118,1008087505995,Web Developer,Web Developer,Remote,true,SGC/SGC Horizon,,,,
+119,1008091568390,Web Developer,Interactive Front End Web Developer (TNF),"Denver, CO",false,The North Face,,,,
+120,1008086966872,Web Developer,Web Developer,Remote,true,Trainerize,,,,
+121,1007190807289,Applications Engineer,Full Stack Web Developers - Senior & Junior,"Albany, NY",true,MM Hayes,"$65,000 - $120,000 ",4,65000.0,120000.0
+122,1008079793339,Applications Engineer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$100,000 - $125,000 ",4.5,100000.0,125000.0
+123,1007607350396,Applications Engineer,Software Developer,Remote,true,TherapyNotes.com,"$63,000 - $81,472 ",3.9,63000.0,81472.0
+124,1008062785194,Applications Engineer,Software Developer for Web with Azure backend,"Lexington, KY",true,CentrAlert Inc.,"$120,000 ",4.3,120000.0,120000.0
+125,1007923843916,Applications Engineer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,"$63,122 - $93,230 ",4.1,63122.0,93230.0
+126,1008078902333,Applications Engineer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$59,758 - $84,224 ",4,59758.0,84224.0
+127,1007927151667,Applications Engineer,Senior Web Developer,Remote,true,Central Restaurant Products,"$120,000 ",4.1,120000.0,120000.0
+128,1008032945707,Applications Engineer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$57,361 - $83,992 ",1.8,57361.0,83992.0
+129,1007961472868,Applications Engineer,Full Stack Developer,"Kernersville, NC",true,Best Logistics Group,"$100,000 - $150,000 ",3.7,100000.0,150000.0
+130,1008067537698,Applications Engineer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,$50 Per Hour,2.3,78000.0,78000.0
+131,1007861789748,Applications Engineer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,"$50,790 - $72,540 ",3.8,50790.0,72540.0
+132,1008086199196,Applications Engineer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,$24 - $50 Per Hour,4,37440.0,78000.0
+133,1008091512712,Applications Engineer,Senior Web Application Developer,Remote,true,Fund&Grow,"$90,000 ",5,90000.0,90000.0
+134,1007840464982,Applications Engineer,Front End Web Developer,"Traverse City, MI",true,Knorr Marketing,"$55,289 - $87,831 ",3.7,55289.0,87831.0
+135,1008092216094,Applications Engineer,On-Site Web Developer,"Mesa, AZ",true,Infinity Dental Web,"$40,000 - $65,000 ",4.4,40000.0,65000.0
+136,1007837579345,Applications Engineer,Senior Web Developer,Remote,true,Diagram,"$87,801 - $124,244 ",3.9,87801.0,124244.0
+137,1007720203539,Applications Engineer,Web Developer w/Polygraph,"Chantilly, VA",false,General Dynamics,"$50,000 - $65,000 ",3.7,50000.0,65000.0
+138,1007668728524,Applications Engineer,Web Designer,"Concord, NH",true,Windwood Productions LLC,"$85,000 - $115,000 ",3.5,85000.0,115000.0
+139,1007994922191,Applications Engineer,Web Application Developer - Cyber,"Portland, OR",false,Deloitte,$25 Per Hour,2,39000.0,39000.0
+140,1008064917217,Applications Engineer,Web Designer,"Roswell, GA",true,Konnektive Corporation,"$45,000 - $65,000 ",4.3,45000.0,65000.0
+141,1008091413530,Applications Engineer,Developer II,Remote,false,Elevance Health,"$60,000 - $70,000 ",3.6,60000.0,70000.0
+142,1008074138955,Applications Engineer,Full Stack Web Developer,"Boulder, CO",true,"SHOTOVER Systems, Inc.","$45,000 - $60,000 ",,45000.0,60000.0
+143,1007611984163,Applications Engineer,Full Stack Web Developer - Entry Level,St Louis Park,false,Aston Technologies Inc.,"$65,000 - $110,000 ",,65000.0,110000.0
+144,1008005448180,Applications Engineer,Web Developer- Hybrid Schedule,"Chester, NY",false,Mediacom Communications Corporation,"$70,000 - $90,000 ",,70000.0,90000.0
+145,1008088820343,Applications Engineer,Web Developer,"Minnetonka, MN",true,"Tax Materials, Inc.",$30 - $36 Per Hour,,46800.0,56160.0
+146,1007473414995,Applications Engineer,Web Designer,"Tampa, FL",true,Mediagistic,,,,
+147,1008062673549,Applications Engineer,PHP Full Stack Web Developer,"Oklahoma City, OK",true,BealsCunningham Strategic Services,,,,
+148,1007869655862,Applications Engineer,Front End Web Developer,"Cincinnati, OH",true,ThinkWare,,,,
+149,1008063524012,Applications Engineer,In-House Web Developer,"Irvine, CA",true,Omega Accounting Solutions,,,,
+150,1007973297537,Applications Engineer,Junior Content Specialist/Web Developer,Remote,true,Sanametrix,,,,
+151,1006571921252,Senior Web Developer,Android Developer,"Palo Alto, CA",false,Stanford Health Care,"$88,063 - $125,385 ",4,88063.0,125385.0
+152,1008067179269,Senior Web Developer,Magento Developer,Remote,true,Cadence Labs,"$100,000 - $110,000 ",4.1,100000.0,110000.0
+153,1008091512712,Senior Web Developer,Senior Web Application Developer,Remote,true,Fund&Grow,$50 Per Hour,3.7,78000.0,78000.0
+154,1008032945707,Senior Web Developer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$59,758 - $84,224 ",4.6,59758.0,84224.0
+155,1007631868058,Senior Web Developer,Junior .Net Developer,"Pompano Beach, FL",false,"Point Blank Enterprises, Inc.","$45,029 - $67,171 ",4.4,45029.0,67171.0
+156,1007979372260,Senior Web Developer,Software Developer,"College Station, TX",false,StataCorp,"$65,125 - $94,196 ",3.7,65125.0,94196.0
+157,1008091244863,Senior Web Developer,Senior Web Developer,"Annapolis, MD",true,Liquified Creative,"$80,000 - $95,000 ",3.7,80000.0,95000.0
+158,1007956947805,Senior Web Developer,.Net Web Developer,"Westmont, IL",true,Mogo Dental Software,"$120,000 - $180,000 ",1.6,120000.0,180000.0
+159,1008092198592,Senior Web Developer,"Senior .NET Developer (Contract to Hire, No C2C)","Phoenix, AZ",true,"Exclusent, Inc.",$60 - $65 Per Hour,4.3,93600.0,101400.0
+160,1008005448180,Senior Web Developer,Web Developer- Hybrid Schedule,"Chester, NY",false,Mediacom Communications Corporation,"$45,000 - $65,000 ",5,45000.0,65000.0
+161,1008091419590,Senior Web Developer,.Net / Angular Web Software Developer,Remote,true,Fuel Travel,"$90,000 - $120,000 ",3.3,90000.0,120000.0
+162,1008076364909,Senior Web Developer,Sr. Backend NodeJS Developer,Remote,true,HealthFund Solutions,$22 - $24 Per Hour,3.7,34320.0,37440.0
+163,1008086420838,Senior Web Developer,Project Coordinator/Web Designer,Remote,true,i-Showcase,"$49,440 - $70,256 ",4.8,49440.0,70256.0
+164,1007858441279,Senior Web Developer,Web Developer - eCommerce - Remote Optional,"West Bend, WI",false,"Delta Defense, LLC","$80,000 - $120,000 ",3.7,80000.0,120000.0
+165,1007937029531,Senior Web Developer,PHP Web Developer,"Roswell, GA",true,Konnektive Corporation,"$65,000 - $80,000 ",4.4,65000.0,80000.0
+166,1007840704016,Senior Web Developer,Web Application Developer,"Fontana, CA",true,Williams-Sonoma-Supply Chain,"$45,000 - $50,000 ",3.9,45000.0,50000.0
+167,1007993215564,Senior Web Developer,Web Developer,"Bowie, MD",true,Complete Landscaping Service,"$100,000 - $120,000 ",3.6,100000.0,120000.0
+168,1008091311059,Senior Web Developer,Senior .NET Web Developer,Remote,true,"BlueModus, Inc.","$90,000 - $110,000 ",4.2,90000.0,110000.0
+169,1008060374859,Senior Web Developer,Angular Developer,Remote,true,Omeda,"$85,000 - $115,000 ",3.5,85000.0,115000.0
+170,1008086061791,Senior Web Developer,Dynamics 365 CRM Applications Developer (Remote),Remote,true,Sockeye Business Solutions,$30 Per Hour,3.9,46800.0,46800.0
+171,1008074138955,Senior Web Developer,Full Stack Web Developer,"Boulder, CO",true,"SHOTOVER Systems, Inc.",$49 - $56 Per Hour,4.4,76440.0,87360.0
+172,1008077022761,Senior Web Developer,Junior Android Developer,"San Juan, PR",true,Enhance IT,"$80,000 - $100,000 ",2.9,80000.0,100000.0
+173,1008089280526,Senior Web Developer,"Front End Developer (TCLD-0714) // US or GC // On-site Chevy Chase, MD","Chevy Chase, MD",true,Dantech Corporation,"$75,000 ",,75000.0,75000.0
+174,1008080788609,Senior Web Developer,Full Stack Web Developer and Technical Lead,"Worcester, MA",true,Ultra Commerce,"$60,000 - $75,000 ",,60000.0,75000.0
+175,1007749545832,Senior Web Developer,Web Developer,"New York, NY",true,CNEWA,"$66,879 - $98,983 ",,66879.0,98983.0
+176,1008088760040,Senior Web Developer,Android Application Developer,"York, ME",true,"Nubble Site Solutions, Inc.","$165,000 ",,165000.0,165000.0
+177,1007979245469,Senior Web Developer,Web Developer/Coder - ServiceNow/SharePoint,"Carbondale, IL",true,Southern Illinois Healthcare,"$60,000 - $65,000 ",,60000.0,65000.0
+178,1007206138444,Senior Web Developer,PHP Developer,Remote,true,Revint Solutions,$32 Per Hour,,49920.0,49920.0
+179,1008087012225,Senior Web Developer,Web Developer,Remote,true,Everlight Solar,,,,
+180,1008076287609,Senior Web Developer,Web Developer Part Time,"Chicago, IL",true,"Hydro, Inc.",,,,
+181,1007954790314,Web Developer,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+182,1007823553877,Web Developer,"Senior Salesforce Developer (Lightning Web Components, Apex, API)","Owings Mills, MD",false,T. Rowe Price,"$75,901 - $110,110 ",3.8,75901.0,110110.0
+183,1008017687281,Web Developer,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$84,668 - $118,156 ",3.2,84668.0,118156.0
+184,1008079793339,Web Developer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$100,000 - $125,000 ",4,100000.0,125000.0
+185,1006571921252,Web Developer,Android Developer,"Palo Alto, CA",false,Stanford Health Care,"$88,063 - $125,385 ",4.5,88063.0,125385.0
+186,1007607350396,Web Developer,Software Developer,Remote,true,TherapyNotes.com,"$80,000 - $100,000 ",4.1,80000.0,100000.0
+187,1008002876896,Web Developer,Associate Developer,"Latham, NY",true,Effective Coverage LLC,"$100,000 - $125,000 ",4.3,100000.0,125000.0
+188,1007768087133,Web Developer,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$57,237 - $83,672 ",3.8,57237.0,83672.0
+189,1007938044225,Web Developer,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$69,276 - $101,401 ",3.4,69276.0,101401.0
+190,1008089092574,Web Developer,Senior Developer,"Providence, UT",true,Eforce,"$75,000 - $125,000 ",3.9,75000.0,125000.0
+191,1008076680883,Web Developer,Java Developer,"Berkeley Heights, NJ",true,signature consultants,"$69,203 - $93,156 ",4.3,69203.0,93156.0
+192,1007806904064,Web Developer,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$100,000 ",4.1,100000.0,100000.0
+193,1008052431863,Web Developer,Application Developer,"East Falmouth, MA",true,Associates of Cape Cod Inc,"$120,000 ",4.1,120000.0,120000.0
+194,1008071784843,Web Developer,Developer Experience Engineer,"Dallas, TX",true,Stratus Data Systems,"$100,000 - $110,000 ",3.8,100000.0,110000.0
+195,1007923843916,Web Developer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,"$63,122 - $93,230 ",3.7,63122.0,93230.0
+196,1008067179269,Web Developer,Magento Developer,Remote,true,Cadence Labs,"$85,085 - $181,885 ",1.8,85085.0,181885.0
+197,1008078902333,Web Developer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$59,758 - $84,224 ",4,59758.0,84224.0
+198,1007510812785,Web Developer,Flutter Developer Fullstack NYC (Streaming Video Web & App Exp. Required),"New York, NY",true,Confidential,$50 Per Hour,3.7,78000.0,78000.0
+199,1007927151667,Web Developer,Senior Web Developer,Remote,true,Central Restaurant Products,"$57,361 - $83,992 ",3.8,57361.0,83992.0
+200,1008032945707,Web Developer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$85,000 - $110,000 ",2.8,85000.0,110000.0
+201,1008091512712,Web Developer,Senior Web Application Developer,Remote,true,Fund&Grow,"$100,000 - $150,000 ",4.2,100000.0,150000.0
+202,1008067537698,Web Developer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$78,475 - $115,467 ",,78475.0,115467.0
+203,1007349470060,Web Developer,Sr. Web PHP/LAMP Developer,"Los Angeles, CA",true,Curacao,"$45,029 - $67,171 ",,45029.0,67171.0
+204,1008086199196,Web Developer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,"$72,969 - $98,421 ",,72969.0,98421.0
+205,1007861789748,Web Developer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,"$65,000 - $85,000 ",,65000.0,85000.0
+206,1008057316034,Web Developer,.NET Developer,"London, TX",false,Align Communications,"$98,100 - $150,000 ",,98100.0,150000.0
+207,1007631868058,Web Developer,Junior .Net Developer,"Pompano Beach, FL",false,"Point Blank Enterprises, Inc.",,,,
+208,1008049971095,Web Developer,GIS Web Developer,"Washington, DC",true,"One Zero Solutions, LLC",,,,
+209,1008073952805,Web Developer,IT Applications Developer,"Monett, MO",true,PlayPower,,,,
+210,1007548306122,Web Developer,Application Developer (Remote),"Clarksburg, WV",false,ManTech International Corporation,,,,
+211,1008067179269,Front End Engineer,Magento Developer,Remote,true,Cadence Labs,"$100,000 - $110,000 ",3.7,100000.0,110000.0
+212,1008092198592,Front End Engineer,"Senior .NET Developer (Contract to Hire, No C2C)","Phoenix, AZ",true,"Exclusent, Inc.",$60 - $65 Per Hour,3.7,93600.0,101400.0
+213,1008005448180,Front End Engineer,Web Developer- Hybrid Schedule,"Chester, NY",false,Mediacom Communications Corporation,"$45,000 - $65,000 ",5,45000.0,65000.0
+214,1008091419590,Front End Engineer,.Net / Angular Web Software Developer,Remote,true,Fuel Travel,$22 - $24 Per Hour,3.3,34320.0,37440.0
+215,1008086420838,Front End Engineer,Project Coordinator/Web Designer,Remote,true,i-Showcase,"$80,000 - $120,000 ",3.9,80000.0,120000.0
+216,1007937029531,Front End Engineer,PHP Web Developer,"Roswell, GA",true,Konnektive Corporation,"$65,000 - $80,000 ",3.6,65000.0,80000.0
+217,1007840704016,Front End Engineer,Web Application Developer,"Fontana, CA",true,Williams-Sonoma-Supply Chain,$30 Per Hour,3.9,46800.0,46800.0
+218,1008077022761,Front End Engineer,Junior Android Developer,"San Juan, PR",true,Enhance IT,$49 - $56 Per Hour,4.4,76440.0,87360.0
+219,1008089280526,Front End Engineer,"Front End Developer (TCLD-0714) // US or GC // On-site Chevy Chase, MD","Chevy Chase, MD",true,Dantech Corporation,"$60,000 - $75,000 ",2.9,60000.0,75000.0
+220,1008088760040,Front End Engineer,Android Application Developer,"York, ME",true,"Nubble Site Solutions, Inc.","$165,000 ",5,165000.0,165000.0
+221,1007206138444,Front End Engineer,PHP Developer,Remote,true,Revint Solutions,"$60,000 - $65,000 ",3.7,60000.0,65000.0
+222,1008087012225,Front End Engineer,Web Developer,Remote,true,Everlight Solar,$32 Per Hour,4.5,49920.0,49920.0
+223,1008076287609,Front End Engineer,Web Developer Part Time,"Chicago, IL",true,"Hydro, Inc.","$51,689 - $76,027 ",4.2,51689.0,76027.0
+224,1008063124835,Front End Engineer,Web Developer,"Hilton Head Island, SC",true,Hilton Head Hospitality Company,"$95,000 - $110,000 ",4.5,95000.0,110000.0
+225,1008088370174,Front End Engineer,Developer,Remote,true,JGS Insurance,"$55,000 - $65,000 ",3.6,55000.0,65000.0
+226,1008031307907,Front End Engineer,Jr. GIS Developer Remote_US,Remote,false,Innovate! Inc,"$75,000 - $100,000 ",4.2,75000.0,100000.0
+227,1008075939022,Front End Engineer,Wordpress Web Developer,"Charlotte, NC",true,Practis,"$60,000 - $70,000 ",3.5,60000.0,70000.0
+228,1008089023069,Front End Engineer,Senior React Web Developer,"New York, NY",true,Confidential,"$75,000 - $110,000 ",4,75000.0,110000.0
+229,1008088820343,Front End Engineer,Web Developer,"Minnetonka, MN",true,"Tax Materials, Inc.",$24 - $50 Per Hour,4.5,37440.0,78000.0
+230,1008091204517,Front End Engineer,Software Developer,"Independence, OH",true,Emerald Resource Group,"$56,815 - $82,793 ",,56815.0,82793.0
+231,1008092216094,Front End Engineer,On-Site Web Developer,"Mesa, AZ",true,Infinity Dental Web,"$90,000 - $110,000 ",,90000.0,110000.0
+232,1008091816048,Front End Engineer,Web Developer,"Fredericksburg, VA",true,Federal Staffing Solutions Inc.,"$52,000 - $65,000 ",,52000.0,65000.0
+233,1008081628978,Front End Engineer,Developer,"Denver, CO",false,Janus Henderson,"$80,000 - $115,000 ",,80000.0,115000.0
+234,1008086090845,Front End Engineer,Junior Web Developer,"Harrisburg, PA",true,"Web Clients, LLC",$77 Per Hour,,120120.0,120120.0
+235,1008078705074,Front End Engineer,Web Developer/eCommerce Management,Remote,true,Green Goo by Sierra Sage,"$53,188 - $75,559 ",,53188.0,75559.0
+236,1008086858328,Front End Engineer,Web Developer,Remote,false,"TekPartners, A P2P Company","$84,525 - $92,563 ",,84525.0,92563.0
+237,1008089434599,Front End Engineer,Web Designer/Developer,"Cincinnati, OH",true,LCS - London Computer Systems,"$55,000 ",,55000.0,55000.0
+238,1008089027551,Front End Engineer,React Developer,Remote,true,Acquire Interactive,"$49,000 - $77,739 ",,49000.0,77739.0
+239,1008088265115,Front End Engineer,GIS Application Developer,Remote,true,GeoMarvel,,,,
+240,1008091114716,Front End Engineer,Web Developer (NOT Remote),"Des Moines, IA",true,Flying Hippo,,,,
+241,1008067179269,Mobile Engineer,Magento Developer,Remote,true,Cadence Labs,"$100,000 - $110,000 ",3.7,100000.0,110000.0
+242,1008092198592,Mobile Engineer,"Senior .NET Developer (Contract to Hire, No C2C)","Phoenix, AZ",true,"Exclusent, Inc.",$60 - $65 Per Hour,3.7,93600.0,101400.0
+243,1008005448180,Mobile Engineer,Web Developer- Hybrid Schedule,"Chester, NY",false,Mediacom Communications Corporation,"$45,000 - $65,000 ",5,45000.0,65000.0
+244,1008091419590,Mobile Engineer,.Net / Angular Web Software Developer,Remote,true,Fuel Travel,$22 - $24 Per Hour,3.3,34320.0,37440.0
+245,1008086420838,Mobile Engineer,Project Coordinator/Web Designer,Remote,true,i-Showcase,"$80,000 - $120,000 ",3.9,80000.0,120000.0
+246,1007937029531,Mobile Engineer,PHP Web Developer,"Roswell, GA",true,Konnektive Corporation,"$65,000 - $80,000 ",3.6,65000.0,80000.0
+247,1007840704016,Mobile Engineer,Web Application Developer,"Fontana, CA",true,Williams-Sonoma-Supply Chain,$30 Per Hour,3.9,46800.0,46800.0
+248,1008077022761,Mobile Engineer,Junior Android Developer,"San Juan, PR",true,Enhance IT,$49 - $56 Per Hour,4.4,76440.0,87360.0
+249,1008089280526,Mobile Engineer,"Front End Developer (TCLD-0714) // US or GC // On-site Chevy Chase, MD","Chevy Chase, MD",true,Dantech Corporation,"$60,000 - $75,000 ",2.9,60000.0,75000.0
+250,1008088760040,Mobile Engineer,Android Application Developer,"York, ME",true,"Nubble Site Solutions, Inc.","$165,000 ",5,165000.0,165000.0
+251,1007206138444,Mobile Engineer,PHP Developer,Remote,true,Revint Solutions,"$60,000 - $65,000 ",3.7,60000.0,65000.0
+252,1008087012225,Mobile Engineer,Web Developer,Remote,true,Everlight Solar,$32 Per Hour,4.5,49920.0,49920.0
+253,1008076287609,Mobile Engineer,Web Developer Part Time,"Chicago, IL",true,"Hydro, Inc.","$51,689 - $76,027 ",4.2,51689.0,76027.0
+254,1008063124835,Mobile Engineer,Web Developer,"Hilton Head Island, SC",true,Hilton Head Hospitality Company,"$95,000 - $110,000 ",4.5,95000.0,110000.0
+255,1008088370174,Mobile Engineer,Developer,Remote,true,JGS Insurance,"$55,000 - $65,000 ",3.6,55000.0,65000.0
+256,1008031307907,Mobile Engineer,Jr. GIS Developer Remote_US,Remote,false,Innovate! Inc,"$75,000 - $100,000 ",4.2,75000.0,100000.0
+257,1008075939022,Mobile Engineer,Wordpress Web Developer,"Charlotte, NC",true,Practis,"$60,000 - $70,000 ",3.5,60000.0,70000.0
+258,1008089023069,Mobile Engineer,Senior React Web Developer,"New York, NY",true,Confidential,"$75,000 - $110,000 ",4,75000.0,110000.0
+259,1008088820343,Mobile Engineer,Web Developer,"Minnetonka, MN",true,"Tax Materials, Inc.",$24 - $50 Per Hour,4.5,37440.0,78000.0
+260,1008091204517,Mobile Engineer,Software Developer,"Independence, OH",true,Emerald Resource Group,"$56,815 - $82,793 ",,56815.0,82793.0
+261,1008092216094,Mobile Engineer,On-Site Web Developer,"Mesa, AZ",true,Infinity Dental Web,"$90,000 - $110,000 ",,90000.0,110000.0
+262,1008091816048,Mobile Engineer,Web Developer,"Fredericksburg, VA",true,Federal Staffing Solutions Inc.,"$52,000 - $65,000 ",,52000.0,65000.0
+263,1008081628978,Mobile Engineer,Developer,"Denver, CO",false,Janus Henderson,"$80,000 - $115,000 ",,80000.0,115000.0
+264,1008086090845,Mobile Engineer,Junior Web Developer,"Harrisburg, PA",true,"Web Clients, LLC",$77 Per Hour,,120120.0,120120.0
+265,1008078705074,Mobile Engineer,Web Developer/eCommerce Management,Remote,true,Green Goo by Sierra Sage,"$53,188 - $75,559 ",,53188.0,75559.0
+266,1008086858328,Mobile Engineer,Web Developer,Remote,false,"TekPartners, A P2P Company","$84,525 - $92,563 ",,84525.0,92563.0
+267,1008089434599,Mobile Engineer,Web Designer/Developer,"Cincinnati, OH",true,LCS - London Computer Systems,"$55,000 ",,55000.0,55000.0
+268,1008089027551,Mobile Engineer,React Developer,Remote,true,Acquire Interactive,"$49,000 - $77,739 ",,49000.0,77739.0
+269,1008088265115,Mobile Engineer,GIS Application Developer,Remote,true,GeoMarvel,,,,
+270,1008091114716,Mobile Engineer,Web Developer (NOT Remote),"Des Moines, IA",true,Flying Hippo,,,,
+271,1007954790314,Web Developer,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+272,1008017687281,Web Developer,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$84,668 - $118,156 ",3.2,84668.0,118156.0
+273,1007823553877,Web Developer,"Senior Salesforce Developer (Lightning Web Components, Apex, API)","Owings Mills, MD",false,T. Rowe Price,"$75,901 - $110,110 ",3.8,75901.0,110110.0
+274,1008079793339,Web Developer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$100,000 - $125,000 ",4.5,100000.0,125000.0
+275,1007607350396,Web Developer,Software Developer,Remote,true,TherapyNotes.com,"$88,063 - $125,385 ",4,88063.0,125385.0
+276,1006571921252,Web Developer,Android Developer,"Palo Alto, CA",false,Stanford Health Care,"$80,000 - $100,000 ",4.1,80000.0,100000.0
+277,1008002876896,Web Developer,Associate Developer,"Latham, NY",true,Effective Coverage LLC,"$100,000 - $125,000 ",3.8,100000.0,125000.0
+278,1007768087133,Web Developer,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$85,000 - $110,000 ",4.3,85000.0,110000.0
+279,1008089092574,Web Developer,Senior Developer,"Providence, UT",true,Eforce,"$57,237 - $83,672 ",3.4,57237.0,83672.0
+280,1007349470060,Web Developer,Sr. Web PHP/LAMP Developer,"Los Angeles, CA",true,Curacao,"$100,000 ",3.8,100000.0,100000.0
+281,1007938044225,Web Developer,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$75,000 - $125,000 ",3.7,75000.0,125000.0
+282,1008071784843,Web Developer,Developer Experience Engineer,"Dallas, TX",true,Stratus Data Systems,"$69,203 - $93,156 ",3.9,69203.0,93156.0
+283,1007806904064,Web Developer,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$69,276 - $101,401 ",4.3,69276.0,101401.0
+284,1008052431863,Web Developer,Application Developer,"East Falmouth, MA",true,Associates of Cape Cod Inc,"$120,000 ",4.1,120000.0,120000.0
+285,1008076680883,Web Developer,Java Developer,"Berkeley Heights, NJ",true,signature consultants,"$100,000 - $110,000 ",4.1,100000.0,110000.0
+286,1007923843916,Web Developer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,$50 Per Hour,2.8,78000.0,78000.0
+287,1008062673549,Web Developer,PHP Full Stack Web Developer,"Oklahoma City, OK",true,BealsCunningham Strategic Services,"$63,122 - $93,230 ",3.3,63122.0,93230.0
+288,1008086199196,Web Developer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,"$59,758 - $84,224 ",4.2,59758.0,84224.0
+289,1008067179269,Web Developer,Magento Developer,Remote,true,Cadence Labs,"$57,361 - $83,992 ",3.7,57361.0,83992.0
+290,1008091512712,Web Developer,Senior Web Application Developer,Remote,true,Fund&Grow,"$65,000 - $85,000 ",4.1,65000.0,85000.0
+291,1008078902333,Web Developer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$98,100 - $150,000 ",1.8,98100.0,150000.0
+292,1007927151667,Web Developer,Senior Web Developer,Remote,true,Central Restaurant Products,"$45,029 - $67,171 ",,45029.0,67171.0
+293,1008032945707,Web Developer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$70,000 - $80,000 ",,70000.0,80000.0
+294,1008067537698,Web Developer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$100,000 - $150,000 ",,100000.0,150000.0
+295,1008073952805,Web Developer,IT Applications Developer,"Monett, MO",true,PlayPower,,,,
+296,1008074476861,Web Developer,Developer,"Stevensville, MD",true,Paul Reed Smith Guitars,,,,
+297,1007548306122,Web Developer,Application Developer (Remote),"Clarksburg, WV",false,ManTech International Corporation,,,,
+298,1007631868058,Web Developer,Junior .Net Developer,"Pompano Beach, FL",false,"Point Blank Enterprises, Inc.",,,,
+299,1008065613724,Web Developer,Web Designer,"McKinney, TX",true,RightNow Media,,,,
+300,1007861789748,Web Developer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,,,,
+301,1008062785194,Web Developer,Software Developer for Web with Azure backend,"Lexington, KY",true,CentrAlert Inc.,"$63,000 - $81,472 ",3.9,63000.0,81472.0
+302,1007923843916,Web Developer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,"$120,000 ",4.3,120000.0,120000.0
+303,1008078902333,Web Developer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$63,122 - $93,230 ",4.1,63122.0,93230.0
+304,1007927151667,Web Developer,Senior Web Developer,Remote,true,Central Restaurant Products,"$59,758 - $84,224 ",4.1,59758.0,84224.0
+305,1008032945707,Web Developer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$57,361 - $83,992 ",1.8,57361.0,83992.0
+306,1008067537698,Web Developer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$100,000 - $150,000 ",4.6,100000.0,150000.0
+307,1007861789748,Web Developer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,"$70,000 ",3.5,70000.0,70000.0
+308,1007977651989,Web Developer,Full Stack Developer - Angular 11+ & Laravel,Remote,true,Lightspeed Voice,"$90,000 ",3.7,90000.0,90000.0
+309,1007837579345,Web Developer,Senior Web Developer,Remote,true,Diagram,"$45,000 - $60,000 ",3.7,45000.0,60000.0
+310,1007473414995,Web Developer,Web Designer,"Tampa, FL",true,Mediagistic,"$45,000 - $65,000 ",2.3,45000.0,65000.0
+311,1008091413530,Web Developer,Developer II,Remote,false,Elevance Health,"$50,790 - $72,540 ",4.3,50790.0,72540.0
+312,1008005448180,Web Developer,Web Developer- Hybrid Schedule,"Chester, NY",false,Mediacom Communications Corporation,"$70,000 - $90,000 ",3.5,70000.0,90000.0
+313,1007840464982,Web Developer,Front End Web Developer,"Traverse City, MI",true,Knorr Marketing,"$67,001 - $103,330 ",4.4,67001.0,103330.0
+314,1008063524012,Web Developer,In-House Web Developer,"Irvine, CA",true,Omega Accounting Solutions,"$85,000 - $115,000 ",3.8,85000.0,115000.0
+315,1008091750791,Web Developer,Software Developer,"Metairie, LA",true,"Orthosynetics, Inc","$70,000 - $90,000 ",5,70000.0,90000.0
+316,1008074138955,Web Developer,Full Stack Web Developer,"Boulder, CO",true,"SHOTOVER Systems, Inc.","$83,000 ",5,83000.0,83000.0
+317,1008053358946,Web Developer,Full Stack Engineer,"Las Vegas, NV",false,Boxabl,"$80,000 - $120,000 ",2,80000.0,120000.0
+318,1008076709776,Web Developer,Web Developer,"Fremont, NE",true,DPA Impact,"$65,000 - $110,000 ",3.5,65000.0,110000.0
+319,1008076192780,Web Developer,"Badass Senior Web Designer - HTML, CSS, & Eye-For-Design","Tampa, FL",true,Lawnline Marketing,"$70,000 - $75,000 ",4,70000.0,75000.0
+320,1007937029531,Web Developer,PHP Web Developer,"Roswell, GA",true,Konnektive Corporation,"$87,801 - $124,244 ",4.1,87801.0,124244.0
+321,1007869655862,Web Developer,Front End Web Developer,"Cincinnati, OH",true,ThinkWare,$24 - $50 Per Hour,3.6,37440.0,78000.0
+322,1007567232400,Web Developer,Web Designer,"Costa Mesa, CA",true,The Brand Amp,"$80,000 - $85,000 ",2.9,80000.0,85000.0
+323,1007994922191,Web Developer,Web Application Developer - Cyber,"Portland, OR",false,Deloitte,$49 - $56 Per Hour,3.7,76440.0,87360.0
+324,1008092216094,Web Developer,On-Site Web Developer,"Mesa, AZ",true,Infinity Dental Web,"$43,277 - $62,785 ",3.3,43277.0,62785.0
+325,1008037772917,Web Developer,Full Stack Web Developer,"Bohemia, NY",true,"AMAC, Inc.","$45,000 - $50,000 ",4.8,45000.0,50000.0
+326,1008089280526,Web Developer,"Front End Developer (TCLD-0714) // US or GC // On-site Chevy Chase, MD","Chevy Chase, MD",true,Dantech Corporation,"$65,000 - $80,000 ",,65000.0,80000.0
+327,1007869574512,Web Developer,Front End Web Developer,"Tampa, FL",true,Artix Entertainment LLC,"$100,000 - $120,000 ",,100000.0,120000.0
+328,1007993215564,Web Developer,Web Developer,"Bowie, MD",true,Complete Landscaping Service,,,,
+329,1007840704016,Web Developer,Web Application Developer,"Fontana, CA",true,Williams-Sonoma-Supply Chain,,,,
+330,1008091311059,Web Developer,Senior .NET Web Developer,Remote,true,"BlueModus, Inc.",,,,
+331,1008062785194,Front End Engineer,Software Developer for Web with Azure backend,"Lexington, KY",true,CentrAlert Inc.,"$63,000 - $81,472 ",3.9,63000.0,81472.0
+332,1007923843916,Front End Engineer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,"$120,000 ",4.3,120000.0,120000.0
+333,1008078902333,Front End Engineer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$63,122 - $93,230 ",4.1,63122.0,93230.0
+334,1007927151667,Front End Engineer,Senior Web Developer,Remote,true,Central Restaurant Products,"$59,758 - $84,224 ",4.1,59758.0,84224.0
+335,1008032945707,Front End Engineer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$57,361 - $83,992 ",1.8,57361.0,83992.0
+336,1008067537698,Front End Engineer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$100,000 - $150,000 ",4.6,100000.0,150000.0
+337,1007861789748,Front End Engineer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,"$70,000 ",3.5,70000.0,70000.0
+338,1007977651989,Front End Engineer,Full Stack Developer - Angular 11+ & Laravel,Remote,true,Lightspeed Voice,"$90,000 ",3.7,90000.0,90000.0
+339,1007837579345,Front End Engineer,Senior Web Developer,Remote,true,Diagram,"$45,000 - $60,000 ",3.7,45000.0,60000.0
+340,1007473414995,Front End Engineer,Web Designer,"Tampa, FL",true,Mediagistic,"$45,000 - $65,000 ",2.3,45000.0,65000.0
+341,1008091413530,Front End Engineer,Developer II,Remote,false,Elevance Health,"$50,790 - $72,540 ",4.3,50790.0,72540.0
+342,1008005448180,Front End Engineer,Web Developer- Hybrid Schedule,"Chester, NY",false,Mediacom Communications Corporation,"$70,000 - $90,000 ",3.5,70000.0,90000.0
+343,1007840464982,Front End Engineer,Front End Web Developer,"Traverse City, MI",true,Knorr Marketing,"$67,001 - $103,330 ",4.4,67001.0,103330.0
+344,1008063524012,Front End Engineer,In-House Web Developer,"Irvine, CA",true,Omega Accounting Solutions,"$85,000 - $115,000 ",3.8,85000.0,115000.0
+345,1008091750791,Front End Engineer,Software Developer,"Metairie, LA",true,"Orthosynetics, Inc","$70,000 - $90,000 ",5,70000.0,90000.0
+346,1008074138955,Front End Engineer,Full Stack Web Developer,"Boulder, CO",true,"SHOTOVER Systems, Inc.","$83,000 ",5,83000.0,83000.0
+347,1008053358946,Front End Engineer,Full Stack Engineer,"Las Vegas, NV",false,Boxabl,"$80,000 - $120,000 ",2,80000.0,120000.0
+348,1008076709776,Front End Engineer,Web Developer,"Fremont, NE",true,DPA Impact,"$65,000 - $110,000 ",3.5,65000.0,110000.0
+349,1008076192780,Front End Engineer,"Badass Senior Web Designer - HTML, CSS, & Eye-For-Design","Tampa, FL",true,Lawnline Marketing,"$70,000 - $75,000 ",4,70000.0,75000.0
+350,1007937029531,Front End Engineer,PHP Web Developer,"Roswell, GA",true,Konnektive Corporation,"$87,801 - $124,244 ",4.1,87801.0,124244.0
+351,1007869655862,Front End Engineer,Front End Web Developer,"Cincinnati, OH",true,ThinkWare,$24 - $50 Per Hour,3.6,37440.0,78000.0
+352,1007567232400,Front End Engineer,Web Designer,"Costa Mesa, CA",true,The Brand Amp,"$80,000 - $85,000 ",2.9,80000.0,85000.0
+353,1007994922191,Front End Engineer,Web Application Developer - Cyber,"Portland, OR",false,Deloitte,$49 - $56 Per Hour,3.7,76440.0,87360.0
+354,1008092216094,Front End Engineer,On-Site Web Developer,"Mesa, AZ",true,Infinity Dental Web,"$43,277 - $62,785 ",3.3,43277.0,62785.0
+355,1008037772917,Front End Engineer,Full Stack Web Developer,"Bohemia, NY",true,"AMAC, Inc.","$45,000 - $50,000 ",4.8,45000.0,50000.0
+356,1008089280526,Front End Engineer,"Front End Developer (TCLD-0714) // US or GC // On-site Chevy Chase, MD","Chevy Chase, MD",true,Dantech Corporation,"$65,000 - $80,000 ",,65000.0,80000.0
+357,1007869574512,Front End Engineer,Front End Web Developer,"Tampa, FL",true,Artix Entertainment LLC,"$100,000 - $120,000 ",,100000.0,120000.0
+358,1007993215564,Front End Engineer,Web Developer,"Bowie, MD",true,Complete Landscaping Service,,,,
+359,1007840704016,Front End Engineer,Web Application Developer,"Fontana, CA",true,Williams-Sonoma-Supply Chain,,,,
+360,1008091311059,Front End Engineer,Senior .NET Web Developer,Remote,true,"BlueModus, Inc.",,,,
+361,1007954790314,Applications Engineer,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+362,1008017687281,Applications Engineer,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$84,668 - $118,156 ",3.2,84668.0,118156.0
+363,1007823553877,Applications Engineer,"Senior Salesforce Developer (Lightning Web Components, Apex, API)","Owings Mills, MD",false,T. Rowe Price,"$75,901 - $110,110 ",3.8,75901.0,110110.0
+364,1008079793339,Applications Engineer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$100,000 - $125,000 ",4.5,100000.0,125000.0
+365,1007607350396,Applications Engineer,Software Developer,Remote,true,TherapyNotes.com,"$88,063 - $125,385 ",4,88063.0,125385.0
+366,1006571921252,Applications Engineer,Android Developer,"Palo Alto, CA",false,Stanford Health Care,"$80,000 - $100,000 ",4.1,80000.0,100000.0
+367,1008002876896,Applications Engineer,Associate Developer,"Latham, NY",true,Effective Coverage LLC,"$100,000 - $125,000 ",3.8,100000.0,125000.0
+368,1007768087133,Applications Engineer,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$85,000 - $110,000 ",4.3,85000.0,110000.0
+369,1008089092574,Applications Engineer,Senior Developer,"Providence, UT",true,Eforce,"$57,237 - $83,672 ",3.4,57237.0,83672.0
+370,1007349470060,Applications Engineer,Sr. Web PHP/LAMP Developer,"Los Angeles, CA",true,Curacao,"$100,000 ",3.8,100000.0,100000.0
+371,1007938044225,Applications Engineer,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$75,000 - $125,000 ",3.7,75000.0,125000.0
+372,1008071784843,Applications Engineer,Developer Experience Engineer,"Dallas, TX",true,Stratus Data Systems,"$69,203 - $93,156 ",3.9,69203.0,93156.0
+373,1007806904064,Applications Engineer,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$69,276 - $101,401 ",4.3,69276.0,101401.0
+374,1008052431863,Applications Engineer,Application Developer,"East Falmouth, MA",true,Associates of Cape Cod Inc,"$120,000 ",4.1,120000.0,120000.0
+375,1008076680883,Applications Engineer,Java Developer,"Berkeley Heights, NJ",true,signature consultants,"$100,000 - $110,000 ",4.1,100000.0,110000.0
+376,1007923843916,Applications Engineer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,$50 Per Hour,2.8,78000.0,78000.0
+377,1008062673549,Applications Engineer,PHP Full Stack Web Developer,"Oklahoma City, OK",true,BealsCunningham Strategic Services,"$63,122 - $93,230 ",3.3,63122.0,93230.0
+378,1008086199196,Applications Engineer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,"$59,758 - $84,224 ",4.2,59758.0,84224.0
+379,1008067179269,Applications Engineer,Magento Developer,Remote,true,Cadence Labs,"$57,361 - $83,992 ",3.7,57361.0,83992.0
+380,1008091512712,Applications Engineer,Senior Web Application Developer,Remote,true,Fund&Grow,"$65,000 - $85,000 ",4.1,65000.0,85000.0
+381,1008078902333,Applications Engineer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$98,100 - $150,000 ",1.8,98100.0,150000.0
+382,1007927151667,Applications Engineer,Senior Web Developer,Remote,true,Central Restaurant Products,"$45,029 - $67,171 ",,45029.0,67171.0
+383,1008032945707,Applications Engineer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$70,000 - $80,000 ",,70000.0,80000.0
+384,1008067537698,Applications Engineer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$100,000 - $150,000 ",,100000.0,150000.0
+385,1008073952805,Applications Engineer,IT Applications Developer,"Monett, MO",true,PlayPower,,,,
+386,1008074476861,Applications Engineer,Developer,"Stevensville, MD",true,Paul Reed Smith Guitars,,,,
+387,1007548306122,Applications Engineer,Application Developer (Remote),"Clarksburg, WV",false,ManTech International Corporation,,,,
+388,1007631868058,Applications Engineer,Junior .Net Developer,"Pompano Beach, FL",false,"Point Blank Enterprises, Inc.",,,,
+389,1008065613724,Applications Engineer,Web Designer,"McKinney, TX",true,RightNow Media,,,,
+390,1007861789748,Applications Engineer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,,,,
+391,1007954790314,Full Stack Engineer,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+392,1007823553877,Full Stack Engineer,"Senior Salesforce Developer (Lightning Web Components, Apex, API)","Owings Mills, MD",false,T. Rowe Price,"$75,901 - $110,110 ",3.8,75901.0,110110.0
+393,1008017687281,Full Stack Engineer,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$84,668 - $118,156 ",3.2,84668.0,118156.0
+394,1008079793339,Full Stack Engineer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$100,000 - $125,000 ",4,100000.0,125000.0
+395,1006571921252,Full Stack Engineer,Android Developer,"Palo Alto, CA",false,Stanford Health Care,"$88,063 - $125,385 ",4.5,88063.0,125385.0
+396,1007607350396,Full Stack Engineer,Software Developer,Remote,true,TherapyNotes.com,"$80,000 - $100,000 ",4.1,80000.0,100000.0
+397,1008002876896,Full Stack Engineer,Associate Developer,"Latham, NY",true,Effective Coverage LLC,"$100,000 - $125,000 ",4.3,100000.0,125000.0
+398,1007768087133,Full Stack Engineer,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$57,237 - $83,672 ",3.8,57237.0,83672.0
+399,1007938044225,Full Stack Engineer,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$69,276 - $101,401 ",3.4,69276.0,101401.0
+400,1008089092574,Full Stack Engineer,Senior Developer,"Providence, UT",true,Eforce,"$75,000 - $125,000 ",3.9,75000.0,125000.0
+401,1008076680883,Full Stack Engineer,Java Developer,"Berkeley Heights, NJ",true,signature consultants,"$69,203 - $93,156 ",4.3,69203.0,93156.0
+402,1007806904064,Full Stack Engineer,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$100,000 ",4.1,100000.0,100000.0
+403,1008052431863,Full Stack Engineer,Application Developer,"East Falmouth, MA",true,Associates of Cape Cod Inc,"$120,000 ",4.1,120000.0,120000.0
+404,1008071784843,Full Stack Engineer,Developer Experience Engineer,"Dallas, TX",true,Stratus Data Systems,"$100,000 - $110,000 ",3.8,100000.0,110000.0
+405,1007923843916,Full Stack Engineer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,"$63,122 - $93,230 ",3.7,63122.0,93230.0
+406,1008067179269,Full Stack Engineer,Magento Developer,Remote,true,Cadence Labs,"$85,085 - $181,885 ",1.8,85085.0,181885.0
+407,1008078902333,Full Stack Engineer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$59,758 - $84,224 ",4,59758.0,84224.0
+408,1007510812785,Full Stack Engineer,Flutter Developer Fullstack NYC (Streaming Video Web & App Exp. Required),"New York, NY",true,Confidential,$50 Per Hour,3.7,78000.0,78000.0
+409,1007927151667,Full Stack Engineer,Senior Web Developer,Remote,true,Central Restaurant Products,"$57,361 - $83,992 ",3.8,57361.0,83992.0
+410,1008032945707,Full Stack Engineer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$85,000 - $110,000 ",2.8,85000.0,110000.0
+411,1008091512712,Full Stack Engineer,Senior Web Application Developer,Remote,true,Fund&Grow,"$100,000 - $150,000 ",4.2,100000.0,150000.0
+412,1008067537698,Full Stack Engineer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$78,475 - $115,467 ",,78475.0,115467.0
+413,1007349470060,Full Stack Engineer,Sr. Web PHP/LAMP Developer,"Los Angeles, CA",true,Curacao,"$45,029 - $67,171 ",,45029.0,67171.0
+414,1008086199196,Full Stack Engineer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,"$72,969 - $98,421 ",,72969.0,98421.0
+415,1007861789748,Full Stack Engineer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,"$65,000 - $85,000 ",,65000.0,85000.0
+416,1008057316034,Full Stack Engineer,.NET Developer,"London, TX",false,Align Communications,"$98,100 - $150,000 ",,98100.0,150000.0
+417,1007631868058,Full Stack Engineer,Junior .Net Developer,"Pompano Beach, FL",false,"Point Blank Enterprises, Inc.",,,,
+418,1008049971095,Full Stack Engineer,GIS Web Developer,"Washington, DC",true,"One Zero Solutions, LLC",,,,
+419,1008073952805,Full Stack Engineer,IT Applications Developer,"Monett, MO",true,PlayPower,,,,
+420,1007548306122,Full Stack Engineer,Application Developer (Remote),"Clarksburg, WV",false,ManTech International Corporation,,,,
+421,1006571921252,Senior Web Developer,Android Developer,"Palo Alto, CA",false,Stanford Health Care,"$88,063 - $125,385 ",4,88063.0,125385.0
+422,1008067179269,Senior Web Developer,Magento Developer,Remote,true,Cadence Labs,"$100,000 - $110,000 ",4.1,100000.0,110000.0
+423,1008032945707,Senior Web Developer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$59,758 - $84,224 ",3.7,59758.0,84224.0
+424,1008091512712,Senior Web Developer,Senior Web Application Developer,Remote,true,Fund&Grow,$50 Per Hour,3.7,78000.0,78000.0
+425,1007631868058,Senior Web Developer,Junior .Net Developer,"Pompano Beach, FL",false,"Point Blank Enterprises, Inc.","$45,029 - $67,171 ",4.6,45029.0,67171.0
+426,1008091419590,Senior Web Developer,.Net / Angular Web Software Developer,Remote,true,Fuel Travel,"$65,125 - $94,196 ",4.3,65125.0,94196.0
+427,1007979372260,Senior Web Developer,Software Developer,"College Station, TX",false,StataCorp,"$120,000 - $180,000 ",4.4,120000.0,180000.0
+428,1007956947805,Senior Web Developer,.Net Web Developer,"Westmont, IL",true,Mogo Dental Software,"$49,440 - $70,256 ",4.4,49440.0,70256.0
+429,1007858441279,Senior Web Developer,Web Developer - eCommerce - Remote Optional,"West Bend, WI",false,"Delta Defense, LLC","$80,000 - $95,000 ",1.6,80000.0,95000.0
+430,1008091244863,Senior Web Developer,Senior Web Developer,"Annapolis, MD",true,Liquified Creative,"$60,000 - $65,000 ",3.7,60000.0,65000.0
+431,1008087012225,Senior Web Developer,Web Developer,Remote,true,Everlight Solar,"$90,000 - $120,000 ",5,90000.0,120000.0
+432,1008076364909,Senior Web Developer,Sr. Backend NodeJS Developer,Remote,true,HealthFund Solutions,"$45,000 - $65,000 ",3.3,45000.0,65000.0
+433,1008005448180,Senior Web Developer,Web Developer- Hybrid Schedule,"Chester, NY",false,Mediacom Communications Corporation,$22 - $24 Per Hour,5,34320.0,37440.0
+434,1008086420838,Senior Web Developer,Project Coordinator/Web Designer,Remote,true,i-Showcase,"$80,000 - $120,000 ",3.7,80000.0,120000.0
+435,1007937029531,Senior Web Developer,PHP Web Developer,"Roswell, GA",true,Konnektive Corporation,$60 - $65 Per Hour,4.4,93600.0,101400.0
+436,1008092198592,Senior Web Developer,"Senior .NET Developer (Contract to Hire, No C2C)","Phoenix, AZ",true,"Exclusent, Inc.","$65,000 - $80,000 ",3.7,65000.0,80000.0
+437,1007840704016,Senior Web Developer,Web Application Developer,"Fontana, CA",true,Williams-Sonoma-Supply Chain,$40 - $45 Per Hour,4.8,62400.0,70200.0
+438,1008074287715,Senior Web Developer,React JS Front End Developer,Remote,true,Better Talent,$47 - $51 Per Hour,4,73320.0,79560.0
+439,1008086452334,Senior Web Developer,Front End Developer,Remote,true,"Alipes, Inc","$45,000 - $50,000 ",3.6,45000.0,50000.0
+440,1007993215564,Senior Web Developer,Web Developer,"Bowie, MD",true,Complete Landscaping Service,"$85,000 - $115,000 ",3.6,85000.0,115000.0
+441,1008074138955,Senior Web Developer,Full Stack Web Developer,"Boulder, CO",true,"SHOTOVER Systems, Inc.","$90,000 - $110,000 ",,90000.0,110000.0
+442,1008086061791,Senior Web Developer,Dynamics 365 CRM Applications Developer (Remote),Remote,true,Sockeye Business Solutions,"$95,000 - $110,000 ",,95000.0,110000.0
+443,1008088370174,Senior Web Developer,Developer,Remote,true,JGS Insurance,"$60,000 ",,60000.0,60000.0
+444,1008088620354,Senior Web Developer,Web Developer,Remote,true,"The Next Step, Inc.","$100,000 - $120,000 ",,100000.0,120000.0
+445,1008091311059,Senior Web Developer,Senior .NET Web Developer,Remote,true,"BlueModus, Inc.","$53,188 - $75,559 ",,53188.0,75559.0
+446,1008089434599,Senior Web Developer,Web Designer/Developer,"Cincinnati, OH",true,LCS - London Computer Systems,"$60,000 - $70,000 ",,60000.0,70000.0
+447,1008088820343,Senior Web Developer,Web Developer,"Minnetonka, MN",true,"Tax Materials, Inc.",$30 - $36 Per Hour,,46800.0,56160.0
+448,1007973297537,Senior Web Developer,Junior Content Specialist/Web Developer,Remote,true,Sanametrix,$49 - $56 Per Hour,,76440.0,87360.0
+449,1008089280526,Senior Web Developer,"Front End Developer (TCLD-0714) // US or GC // On-site Chevy Chase, MD","Chevy Chase, MD",true,Dantech Corporation,"$52,000 - $65,000 ",,52000.0,65000.0
+450,1008086090845,Senior Web Developer,Junior Web Developer,"Harrisburg, PA",true,"Web Clients, LLC",,,,
+451,1007954790314,Full Stack Engineer,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+452,1008017687281,Full Stack Engineer,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$84,668 - $118,156 ",3.2,84668.0,118156.0
+453,1007823553877,Full Stack Engineer,"Senior Salesforce Developer (Lightning Web Components, Apex, API)","Owings Mills, MD",false,T. Rowe Price,"$75,901 - $110,110 ",3.8,75901.0,110110.0
+454,1008079793339,Full Stack Engineer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$100,000 - $125,000 ",4.5,100000.0,125000.0
+455,1007607350396,Full Stack Engineer,Software Developer,Remote,true,TherapyNotes.com,"$88,063 - $125,385 ",4,88063.0,125385.0
+456,1006571921252,Full Stack Engineer,Android Developer,"Palo Alto, CA",false,Stanford Health Care,"$80,000 - $100,000 ",4.1,80000.0,100000.0
+457,1008002876896,Full Stack Engineer,Associate Developer,"Latham, NY",true,Effective Coverage LLC,"$100,000 - $125,000 ",3.8,100000.0,125000.0
+458,1007768087133,Full Stack Engineer,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$85,000 - $110,000 ",4.3,85000.0,110000.0
+459,1008089092574,Full Stack Engineer,Senior Developer,"Providence, UT",true,Eforce,"$57,237 - $83,672 ",3.4,57237.0,83672.0
+460,1007349470060,Full Stack Engineer,Sr. Web PHP/LAMP Developer,"Los Angeles, CA",true,Curacao,"$100,000 ",3.8,100000.0,100000.0
+461,1007938044225,Full Stack Engineer,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$75,000 - $125,000 ",3.7,75000.0,125000.0
+462,1008071784843,Full Stack Engineer,Developer Experience Engineer,"Dallas, TX",true,Stratus Data Systems,"$69,203 - $93,156 ",3.9,69203.0,93156.0
+463,1007806904064,Full Stack Engineer,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$69,276 - $101,401 ",4.3,69276.0,101401.0
+464,1008052431863,Full Stack Engineer,Application Developer,"East Falmouth, MA",true,Associates of Cape Cod Inc,"$120,000 ",4.1,120000.0,120000.0
+465,1008076680883,Full Stack Engineer,Java Developer,"Berkeley Heights, NJ",true,signature consultants,"$100,000 - $110,000 ",4.1,100000.0,110000.0
+466,1007923843916,Full Stack Engineer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,$50 Per Hour,2.8,78000.0,78000.0
+467,1008062673549,Full Stack Engineer,PHP Full Stack Web Developer,"Oklahoma City, OK",true,BealsCunningham Strategic Services,"$63,122 - $93,230 ",3.3,63122.0,93230.0
+468,1008086199196,Full Stack Engineer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,"$59,758 - $84,224 ",4.2,59758.0,84224.0
+469,1008067179269,Full Stack Engineer,Magento Developer,Remote,true,Cadence Labs,"$57,361 - $83,992 ",3.7,57361.0,83992.0
+470,1008091512712,Full Stack Engineer,Senior Web Application Developer,Remote,true,Fund&Grow,"$65,000 - $85,000 ",4.1,65000.0,85000.0
+471,1008078902333,Full Stack Engineer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$98,100 - $150,000 ",1.8,98100.0,150000.0
+472,1007927151667,Full Stack Engineer,Senior Web Developer,Remote,true,Central Restaurant Products,"$45,029 - $67,171 ",,45029.0,67171.0
+473,1008032945707,Full Stack Engineer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$70,000 - $80,000 ",,70000.0,80000.0
+474,1008067537698,Full Stack Engineer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$100,000 - $150,000 ",,100000.0,150000.0
+475,1008073952805,Full Stack Engineer,IT Applications Developer,"Monett, MO",true,PlayPower,,,,
+476,1008074476861,Full Stack Engineer,Developer,"Stevensville, MD",true,Paul Reed Smith Guitars,,,,
+477,1007548306122,Full Stack Engineer,Application Developer (Remote),"Clarksburg, WV",false,ManTech International Corporation,,,,
+478,1007631868058,Full Stack Engineer,Junior .Net Developer,"Pompano Beach, FL",false,"Point Blank Enterprises, Inc.",,,,
+479,1008065613724,Full Stack Engineer,Web Designer,"McKinney, TX",true,RightNow Media,,,,
+480,1007861789748,Full Stack Engineer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,,,,
+481,1007954790314,Web Designer,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+482,1008017687281,Web Designer,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$84,668 - $118,156 ",3.2,84668.0,118156.0
+483,1007823553877,Web Designer,"Senior Salesforce Developer (Lightning Web Components, Apex, API)","Owings Mills, MD",false,T. Rowe Price,"$75,901 - $110,110 ",3.8,75901.0,110110.0
+484,1008079793339,Web Designer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$100,000 - $125,000 ",4.5,100000.0,125000.0
+485,1007607350396,Web Designer,Software Developer,Remote,true,TherapyNotes.com,"$88,063 - $125,385 ",4,88063.0,125385.0
+486,1006571921252,Web Designer,Android Developer,"Palo Alto, CA",false,Stanford Health Care,"$80,000 - $100,000 ",4.1,80000.0,100000.0
+487,1008002876896,Web Designer,Associate Developer,"Latham, NY",true,Effective Coverage LLC,"$100,000 - $125,000 ",3.8,100000.0,125000.0
+488,1007768087133,Web Designer,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$85,000 - $110,000 ",4.3,85000.0,110000.0
+489,1008089092574,Web Designer,Senior Developer,"Providence, UT",true,Eforce,"$57,237 - $83,672 ",3.4,57237.0,83672.0
+490,1007349470060,Web Designer,Sr. Web PHP/LAMP Developer,"Los Angeles, CA",true,Curacao,"$100,000 ",3.8,100000.0,100000.0
+491,1007938044225,Web Designer,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$75,000 - $125,000 ",3.7,75000.0,125000.0
+492,1008071784843,Web Designer,Developer Experience Engineer,"Dallas, TX",true,Stratus Data Systems,"$69,203 - $93,156 ",3.9,69203.0,93156.0
+493,1007806904064,Web Designer,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$69,276 - $101,401 ",4.3,69276.0,101401.0
+494,1008052431863,Web Designer,Application Developer,"East Falmouth, MA",true,Associates of Cape Cod Inc,"$120,000 ",4.1,120000.0,120000.0
+495,1008076680883,Web Designer,Java Developer,"Berkeley Heights, NJ",true,signature consultants,"$100,000 - $110,000 ",4.1,100000.0,110000.0
+496,1007923843916,Web Designer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,$50 Per Hour,2.8,78000.0,78000.0
+497,1008062673549,Web Designer,PHP Full Stack Web Developer,"Oklahoma City, OK",true,BealsCunningham Strategic Services,"$63,122 - $93,230 ",3.3,63122.0,93230.0
+498,1008086199196,Web Designer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,"$59,758 - $84,224 ",4.2,59758.0,84224.0
+499,1008067179269,Web Designer,Magento Developer,Remote,true,Cadence Labs,"$57,361 - $83,992 ",3.7,57361.0,83992.0
+500,1008091512712,Web Designer,Senior Web Application Developer,Remote,true,Fund&Grow,"$65,000 - $85,000 ",4.1,65000.0,85000.0
+501,1008078902333,Web Designer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$98,100 - $150,000 ",1.8,98100.0,150000.0
+502,1007927151667,Web Designer,Senior Web Developer,Remote,true,Central Restaurant Products,"$45,029 - $67,171 ",,45029.0,67171.0
+503,1008032945707,Web Designer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$70,000 - $80,000 ",,70000.0,80000.0
+504,1008067537698,Web Designer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$100,000 - $150,000 ",,100000.0,150000.0
+505,1008073952805,Web Designer,IT Applications Developer,"Monett, MO",true,PlayPower,,,,
+506,1008074476861,Web Designer,Developer,"Stevensville, MD",true,Paul Reed Smith Guitars,,,,
+507,1007548306122,Web Designer,Application Developer (Remote),"Clarksburg, WV",false,ManTech International Corporation,,,,
+508,1007631868058,Web Designer,Junior .Net Developer,"Pompano Beach, FL",false,"Point Blank Enterprises, Inc.",,,,
+509,1008065613724,Web Designer,Web Designer,"McKinney, TX",true,RightNow Media,,,,
+510,1007861789748,Web Designer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,,,,
+511,1007954790314,Senior Web Developer,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+512,1008012158867,Senior Web Developer,Front End Web Developer - hybrid,"Newtown Square, PA",false,Amerihealth,"$84,668 - $118,156 ",3.4,84668.0,118156.0
+513,1008017687281,Senior Web Developer,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$65,000 - $120,000 ",3.2,65000.0,120000.0
+514,1007991629121,Senior Web Developer,Geographic Information Systems (GIS) Applications Developer II,"Perris, CA",false,Eastern Municipal Water District,"$100,000 - $125,000 ",4,100000.0,125000.0
+515,1007190807289,Senior Web Developer,Full Stack Web Developers - Senior & Junior,"Albany, NY",true,MM Hayes,"$63,000 - $81,472 ",4,63000.0,81472.0
+516,1008079793339,Senior Web Developer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$52,750 - $74,675 ",4.5,52750.0,74675.0
+517,1007607350396,Senior Web Developer,Software Developer,Remote,true,TherapyNotes.com,"$62,343 - $93,147 ",4.2,62343.0,93147.0
+518,1008062785194,Senior Web Developer,Software Developer for Web with Azure backend,"Lexington, KY",true,CentrAlert Inc.,"$90,829 - $133,931 ",4.2,90829.0,133931.0
+519,1007927041559,Senior Web Developer,Web Developer,"Greenville, NC",false,East Carolina University,"$100,000 - $125,000 ",2.7,100000.0,125000.0
+520,1007826416423,Senior Web Developer,Software Developer,"Bridgeton, MO",false,Hunter Engineering,"$85,000 - $115,000 ",4.6,85000.0,115000.0
+521,1008079077688,Senior Web Developer,Web Development Technician - Top Secret/SCI security clearance required,"Offutt A F B, NE",true,"Spiral Solutions and Technologies, Inc.","$57,237 - $83,672 ",4.3,57237.0,83672.0
+522,1007771669185,Senior Web Developer,Full Stack Engineer,"Atlanta, GA",false,"Unifi Aviation, LLC","$70,000 - $110,000 ",4.1,70000.0,110000.0
+523,1007768087133,Senior Web Developer,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$75,000 - $125,000 ",2.9,75000.0,125000.0
+524,1008012520693,Senior Web Developer,Senior Web Developer,"Brentwood, TN",true,Conversion Interactive Agency,"$63,366 - $85,857 ",3.2,63366.0,85857.0
+525,1007938044225,Senior Web Developer,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$89,758 - $135,738 ",2.7,89758.0,135738.0
+526,1007696390471,Senior Web Developer,Backend and Interoperability Software Developer,Remote,true,Zynex Medical,"$120,000 ",3.8,120000.0,120000.0
+527,1007806904064,Senior Web Developer,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$80,000 - $100,000 ",3.9,80000.0,100000.0
+528,1007973068473,Senior Web Developer,Senior Backend JavaScript Developer,"Davenport, IA",false,TapOnIt Mobile Deals,"$77,824 - $113,403 ",4.5,77824.0,113403.0
+529,1007873977043,Senior Web Developer,Senior Web Developer,"Lake Forest, CA",true,Ethika Inc,"$80,000 - $130,000 ",4.3,80000.0,130000.0
+530,1007923843916,Senior Web Developer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,"$63,122 - $93,230 ",4.1,63122.0,93230.0
+531,1008039461383,Senior Web Developer,.NET (CMS) Web Developer,"Bethesda, MD",false,agencyQ,"$59,758 - $84,224 ",4,59758.0,84224.0
+532,1007818208481,Senior Web Developer,Sr IT Specialist - Ecommerce Developer Magento,"Waukegan, IL",false,Abbott Laboratories,"$120,000 ",4.1,120000.0,120000.0
+533,1007961980812,Senior Web Developer,Front End Developer (Secret Clearance),"Arlington, VA",true,GXM Consulting LLC,"$57,361 - $83,992 ",,57361.0,83992.0
+534,1008078902333,Senior Web Developer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$85,085 - $181,885 ",,85085.0,181885.0
+535,1008051190360,Senior Web Developer,Web/Data Developer,"Clinton, NY",false,Hamilton College,,,,
+536,1007927151667,Senior Web Developer,Senior Web Developer,Remote,true,Central Restaurant Products,,,,
+537,1008032945707,Senior Web Developer,Backend Web Developer,"Madison, WI",true,pc/nametag,,,,
+538,1007961472868,Senior Web Developer,Full Stack Developer,"Kernersville, NC",true,Best Logistics Group,,,,
+539,1008067537698,Senior Web Developer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,,,,
+540,1007510812785,Senior Web Developer,Flutter Developer Fullstack NYC (Streaming Video Web & App Exp. Required),"New York, NY",true,Confidential,,,,
+541,1007954790314,Back End Engineer,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+542,1007823553877,Back End Engineer,"Senior Salesforce Developer (Lightning Web Components, Apex, API)","Owings Mills, MD",false,T. Rowe Price,"$75,901 - $110,110 ",3.8,75901.0,110110.0
+543,1008017687281,Back End Engineer,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$84,668 - $118,156 ",3.2,84668.0,118156.0
+544,1008079793339,Back End Engineer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$100,000 - $125,000 ",4,100000.0,125000.0
+545,1006571921252,Back End Engineer,Android Developer,"Palo Alto, CA",false,Stanford Health Care,"$88,063 - $125,385 ",4.5,88063.0,125385.0
+546,1007607350396,Back End Engineer,Software Developer,Remote,true,TherapyNotes.com,"$80,000 - $100,000 ",4.1,80000.0,100000.0
+547,1008002876896,Back End Engineer,Associate Developer,"Latham, NY",true,Effective Coverage LLC,"$100,000 - $125,000 ",4.3,100000.0,125000.0
+548,1007768087133,Back End Engineer,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$57,237 - $83,672 ",3.8,57237.0,83672.0
+549,1007938044225,Back End Engineer,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$69,276 - $101,401 ",3.4,69276.0,101401.0
+550,1008089092574,Back End Engineer,Senior Developer,"Providence, UT",true,Eforce,"$75,000 - $125,000 ",3.9,75000.0,125000.0
+551,1008076680883,Back End Engineer,Java Developer,"Berkeley Heights, NJ",true,signature consultants,"$69,203 - $93,156 ",4.3,69203.0,93156.0
+552,1007806904064,Back End Engineer,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$100,000 ",4.1,100000.0,100000.0
+553,1008052431863,Back End Engineer,Application Developer,"East Falmouth, MA",true,Associates of Cape Cod Inc,"$120,000 ",4.1,120000.0,120000.0
+554,1008071784843,Back End Engineer,Developer Experience Engineer,"Dallas, TX",true,Stratus Data Systems,"$100,000 - $110,000 ",3.8,100000.0,110000.0
+555,1007923843916,Back End Engineer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,"$63,122 - $93,230 ",3.7,63122.0,93230.0
+556,1008067179269,Back End Engineer,Magento Developer,Remote,true,Cadence Labs,"$85,085 - $181,885 ",1.8,85085.0,181885.0
+557,1008078902333,Back End Engineer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$59,758 - $84,224 ",4,59758.0,84224.0
+558,1007510812785,Back End Engineer,Flutter Developer Fullstack NYC (Streaming Video Web & App Exp. Required),"New York, NY",true,Confidential,$50 Per Hour,3.7,78000.0,78000.0
+559,1007927151667,Back End Engineer,Senior Web Developer,Remote,true,Central Restaurant Products,"$57,361 - $83,992 ",3.8,57361.0,83992.0
+560,1008032945707,Back End Engineer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$85,000 - $110,000 ",2.8,85000.0,110000.0
+561,1008091512712,Back End Engineer,Senior Web Application Developer,Remote,true,Fund&Grow,"$100,000 - $150,000 ",4.2,100000.0,150000.0
+562,1008067537698,Back End Engineer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$78,475 - $115,467 ",,78475.0,115467.0
+563,1007349470060,Back End Engineer,Sr. Web PHP/LAMP Developer,"Los Angeles, CA",true,Curacao,"$45,029 - $67,171 ",,45029.0,67171.0
+564,1008086199196,Back End Engineer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,"$72,969 - $98,421 ",,72969.0,98421.0
+565,1007861789748,Back End Engineer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,"$65,000 - $85,000 ",,65000.0,85000.0
+566,1008057316034,Back End Engineer,.NET Developer,"London, TX",false,Align Communications,"$98,100 - $150,000 ",,98100.0,150000.0
+567,1007631868058,Back End Engineer,Junior .Net Developer,"Pompano Beach, FL",false,"Point Blank Enterprises, Inc.",,,,
+568,1008049971095,Back End Engineer,GIS Web Developer,"Washington, DC",true,"One Zero Solutions, LLC",,,,
+569,1008073952805,Back End Engineer,IT Applications Developer,"Monett, MO",true,PlayPower,,,,
+570,1007548306122,Back End Engineer,Application Developer (Remote),"Clarksburg, WV",false,ManTech International Corporation,,,,
+571,1007954790314,Full Stack Engineer,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+572,1008012158867,Full Stack Engineer,Front End Web Developer - hybrid,"Newtown Square, PA",false,Amerihealth,"$84,668 - $118,156 ",3.4,84668.0,118156.0
+573,1008017687281,Full Stack Engineer,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$100,000 - $125,000 ",3.2,100000.0,125000.0
+574,1008079793339,Full Stack Engineer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$63,000 - $81,472 ",4.5,63000.0,81472.0
+575,1007607350396,Full Stack Engineer,Software Developer,Remote,true,TherapyNotes.com,"$65,000 - $120,000 ",4,65000.0,120000.0
+576,1008062785194,Full Stack Engineer,Software Developer for Web with Azure backend,"Lexington, KY",true,CentrAlert Inc.,"$100,000 - $125,000 ",4,100000.0,125000.0
+577,1007991629121,Full Stack Engineer,Geographic Information Systems (GIS) Applications Developer II,"Perris, CA",false,Eastern Municipal Water District,"$52,750 - $74,675 ",4.2,52750.0,74675.0
+578,1007190807289,Full Stack Engineer,Full Stack Web Developers - Senior & Junior,"Albany, NY",true,MM Hayes,"$85,000 - $115,000 ",4.6,85000.0,115000.0
+579,1007768087133,Full Stack Engineer,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$62,343 - $93,147 ",4.2,62343.0,93147.0
+580,1008079077688,Full Stack Engineer,Web Development Technician - Top Secret/SCI security clearance required,"Offutt A F B, NE",true,"Spiral Solutions and Technologies, Inc.","$87,500 ",3.1,87500.0,87500.0
+581,1007927041559,Full Stack Engineer,Web Developer,"Greenville, NC",false,East Carolina University,"$70,000 - $110,000 ",4.1,70000.0,110000.0
+582,1008012520693,Full Stack Engineer,Senior Web Developer,"Brentwood, TN",true,Conversion Interactive Agency,"$85,000 - $110,000 ",3.8,85000.0,110000.0
+583,1007826416423,Full Stack Engineer,Software Developer,"Bridgeton, MO",false,Hunter Engineering,"$57,237 - $83,672 ",4.3,57237.0,83672.0
+584,1007668182276,Full Stack Engineer,Magento / PHP Developer,"Denver, CO",false,DISH,"$63,366 - $85,857 ",2.9,63366.0,85857.0
+585,1007696390471,Full Stack Engineer,Backend and Interoperability Software Developer,Remote,true,Zynex Medical,"$80,000 - $100,000 ",2.7,80000.0,100000.0
+586,1007349470060,Full Stack Engineer,Sr. Web PHP/LAMP Developer,"Los Angeles, CA",true,Curacao,"$75,000 - $125,000 ",4,75000.0,125000.0
+587,1007938044225,Full Stack Engineer,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$120,000 ",2.7,120000.0,120000.0
+588,1007973068473,Full Stack Engineer,Senior Backend JavaScript Developer,"Davenport, IA",false,TapOnIt Mobile Deals,"$120,000 ",3.2,120000.0,120000.0
+589,1008039461383,Full Stack Engineer,.NET (CMS) Web Developer,"Bethesda, MD",false,agencyQ,"$90,829 - $133,931 ",3.7,90829.0,133931.0
+590,1007806904064,Full Stack Engineer,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$89,758 - $135,738 ",4.5,89758.0,135738.0
+591,1007961472868,Full Stack Engineer,Full Stack Developer,"Kernersville, NC",true,Best Logistics Group,$16 - $19 Per Hour,3.8,24960.0,29640.0
+592,1007923843916,Full Stack Engineer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,"$80,000 - $130,000 ",,80000.0,130000.0
+593,1007771669185,Full Stack Engineer,Full Stack Engineer,"Atlanta, GA",false,"Unifi Aviation, LLC","$77,824 - $113,403 ",,77824.0,113403.0
+594,1008062673549,Full Stack Engineer,PHP Full Stack Web Developer,"Oklahoma City, OK",true,BealsCunningham Strategic Services,,,,
+595,1007873977043,Full Stack Engineer,Senior Web Developer,"Lake Forest, CA",true,Ethika Inc,,,,
+596,1008086199196,Full Stack Engineer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,,,,
+597,1008071956911,Full Stack Engineer,Graphic Designer/Web Designer,"Greensboro, GA",true,"Greer Force Marketing, LLC.",,,,
+598,1007961980812,Full Stack Engineer,Front End Developer (Secret Clearance),"Arlington, VA",true,GXM Consulting LLC,,,,
+599,1007733641281,Full Stack Engineer,Backend Developer- Eventlink,Remote,true,SDI Innovations,,,,
+600,1007818208481,Full Stack Engineer,Sr IT Specialist - Ecommerce Developer Magento,"Waukegan, IL",false,Abbott Laboratories,,,,
+601,1007954790314,Senior IT Specialist,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+602,1008012158867,Senior IT Specialist,Front End Web Developer - hybrid,"Newtown Square, PA",false,Amerihealth,"$84,668 - $118,156 ",3.4,84668.0,118156.0
+603,1008017687281,Senior IT Specialist,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$65,000 - $120,000 ",3.2,65000.0,120000.0
+604,1007991629121,Senior IT Specialist,Geographic Information Systems (GIS) Applications Developer II,"Perris, CA",false,Eastern Municipal Water District,"$100,000 - $125,000 ",4,100000.0,125000.0
+605,1007190807289,Senior IT Specialist,Full Stack Web Developers - Senior & Junior,"Albany, NY",true,MM Hayes,"$63,000 - $81,472 ",4,63000.0,81472.0
+606,1008079793339,Senior IT Specialist,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$52,750 - $74,675 ",4.5,52750.0,74675.0
+607,1007607350396,Senior IT Specialist,Software Developer,Remote,true,TherapyNotes.com,"$62,343 - $93,147 ",4.2,62343.0,93147.0
+608,1008062785194,Senior IT Specialist,Software Developer for Web with Azure backend,"Lexington, KY",true,CentrAlert Inc.,"$90,829 - $133,931 ",4.2,90829.0,133931.0
+609,1007927041559,Senior IT Specialist,Web Developer,"Greenville, NC",false,East Carolina University,"$100,000 - $125,000 ",2.7,100000.0,125000.0
+610,1007826416423,Senior IT Specialist,Software Developer,"Bridgeton, MO",false,Hunter Engineering,"$85,000 - $115,000 ",4.6,85000.0,115000.0
+611,1008079077688,Senior IT Specialist,Web Development Technician - Top Secret/SCI security clearance required,"Offutt A F B, NE",true,"Spiral Solutions and Technologies, Inc.","$57,237 - $83,672 ",4.3,57237.0,83672.0
+612,1007771669185,Senior IT Specialist,Full Stack Engineer,"Atlanta, GA",false,"Unifi Aviation, LLC","$70,000 - $110,000 ",4.1,70000.0,110000.0
+613,1007768087133,Senior IT Specialist,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$75,000 - $125,000 ",2.9,75000.0,125000.0
+614,1008012520693,Senior IT Specialist,Senior Web Developer,"Brentwood, TN",true,Conversion Interactive Agency,"$63,366 - $85,857 ",3.2,63366.0,85857.0
+615,1007938044225,Senior IT Specialist,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$89,758 - $135,738 ",2.7,89758.0,135738.0
+616,1007696390471,Senior IT Specialist,Backend and Interoperability Software Developer,Remote,true,Zynex Medical,"$120,000 ",3.8,120000.0,120000.0
+617,1007806904064,Senior IT Specialist,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$80,000 - $100,000 ",3.9,80000.0,100000.0
+618,1007973068473,Senior IT Specialist,Senior Backend JavaScript Developer,"Davenport, IA",false,TapOnIt Mobile Deals,"$77,824 - $113,403 ",4.5,77824.0,113403.0
+619,1007873977043,Senior IT Specialist,Senior Web Developer,"Lake Forest, CA",true,Ethika Inc,"$80,000 - $130,000 ",4.3,80000.0,130000.0
+620,1007923843916,Senior IT Specialist,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,"$63,122 - $93,230 ",4.1,63122.0,93230.0
+621,1008039461383,Senior IT Specialist,.NET (CMS) Web Developer,"Bethesda, MD",false,agencyQ,"$59,758 - $84,224 ",4,59758.0,84224.0
+622,1007818208481,Senior IT Specialist,Sr IT Specialist - Ecommerce Developer Magento,"Waukegan, IL",false,Abbott Laboratories,"$120,000 ",4.1,120000.0,120000.0
+623,1007961980812,Senior IT Specialist,Front End Developer (Secret Clearance),"Arlington, VA",true,GXM Consulting LLC,"$57,361 - $83,992 ",,57361.0,83992.0
+624,1008078902333,Senior IT Specialist,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$85,085 - $181,885 ",,85085.0,181885.0
+625,1008051190360,Senior IT Specialist,Web/Data Developer,"Clinton, NY",false,Hamilton College,,,,
+626,1007927151667,Senior IT Specialist,Senior Web Developer,Remote,true,Central Restaurant Products,,,,
+627,1008032945707,Senior IT Specialist,Backend Web Developer,"Madison, WI",true,pc/nametag,,,,
+628,1007961472868,Senior IT Specialist,Full Stack Developer,"Kernersville, NC",true,Best Logistics Group,,,,
+629,1008067537698,Senior IT Specialist,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,,,,
+630,1007510812785,Senior IT Specialist,Flutter Developer Fullstack NYC (Streaming Video Web & App Exp. Required),"New York, NY",true,Confidential,,,,
+631,1008079793339,Front End Engineer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$100,000 - $125,000 ",4.5,100000.0,125000.0
+632,1007607350396,Front End Engineer,Software Developer,Remote,true,TherapyNotes.com,"$63,000 - $81,472 ",4,63000.0,81472.0
+633,1008062785194,Front End Engineer,Software Developer for Web with Azure backend,"Lexington, KY",true,CentrAlert Inc.,"$65,000 - $120,000 ",4,65000.0,120000.0
+634,1007190807289,Front End Engineer,Full Stack Web Developers - Senior & Junior,"Albany, NY",true,MM Hayes,"$120,000 ",3.7,120000.0,120000.0
+635,1007961472868,Front End Engineer,Full Stack Developer,"Kernersville, NC",true,Best Logistics Group,"$120,000 ",3.9,120000.0,120000.0
+636,1007923843916,Front End Engineer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,$50 Per Hour,4.3,78000.0,78000.0
+637,1008062673549,Front End Engineer,PHP Full Stack Web Developer,"Oklahoma City, OK",true,BealsCunningham Strategic Services,"$63,122 - $93,230 ",4.1,63122.0,93230.0
+638,1008086199196,Front End Engineer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,"$59,758 - $84,224 ",4.1,59758.0,84224.0
+639,1008091512712,Front End Engineer,Senior Web Application Developer,Remote,true,Fund&Grow,"$57,361 - $83,992 ",1.8,57361.0,83992.0
+640,1008078902333,Front End Engineer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$40,000 - $65,000 ",4.6,40000.0,65000.0
+641,1007927151667,Front End Engineer,Senior Web Developer,Remote,true,Central Restaurant Products,"$100,000 - $150,000 ",5,100000.0,150000.0
+642,1008032945707,Front End Engineer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$70,000 ",3.5,70000.0,70000.0
+643,1008067537698,Front End Engineer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$50,000 - $65,000 ",4.4,50000.0,65000.0
+644,1007668728524,Front End Engineer,Web Designer,"Concord, NH",true,Windwood Productions LLC,"$90,000 ",3.7,90000.0,90000.0
+645,1007861789748,Front End Engineer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,"$45,000 - $60,000 ",3.7,45000.0,60000.0
+646,1007977651989,Front End Engineer,Full Stack Developer - Angular 11+ & Laravel,Remote,true,Lightspeed Voice,"$80,000 - $95,000 ",2.3,80000.0,95000.0
+647,1008064917217,Front End Engineer,Web Designer,"Roswell, GA",true,Konnektive Corporation,"$45,000 - $65,000 ",3.7,45000.0,65000.0
+648,1007837579345,Front End Engineer,Senior Web Developer,Remote,true,Diagram,"$50,790 - $72,540 ",2.3,50790.0,72540.0
+649,1007473414995,Front End Engineer,Web Designer,"Tampa, FL",true,Mediagistic,"$45,000 - $60,000 ",4.3,45000.0,60000.0
+650,1008091244863,Front End Engineer,Senior Web Developer,"Annapolis, MD",true,Liquified Creative,"$61,538 - $90,819 ",3.5,61538.0,90819.0
+651,1008091413530,Front End Engineer,Developer II,Remote,false,Elevance Health,"$70,000 - $90,000 ",3.8,70000.0,90000.0
+652,1008005448180,Front End Engineer,Web Developer- Hybrid Schedule,"Chester, NY",false,Mediacom Communications Corporation,"$67,001 - $103,330 ",4.4,67001.0,103330.0
+653,1007840464982,Front End Engineer,Front End Web Developer,"Traverse City, MI",true,Knorr Marketing,"$55,289 - $87,831 ",,55289.0,87831.0
+654,1007922988006,Front End Engineer,Web Designer/Developer,"Pickerington, OH",true,Five Star Heating & Cooling,"$85,000 - $115,000 ",,85000.0,115000.0
+655,1007841950872,Front End Engineer,EDI Software Engineer II (Remote),Remote,false,American Specialty Health Incorporated,,,,
+656,1007442508015,Front End Engineer,PHP Web Developer,"Traverse City, MI",true,Knorr Marketing,,,,
+657,1008063524012,Front End Engineer,In-House Web Developer,"Irvine, CA",true,Omega Accounting Solutions,,,,
+658,1008091750791,Front End Engineer,Software Developer,"Metairie, LA",true,"Orthosynetics, Inc",,,,
+659,1007720203539,Front End Engineer,Web Developer w/Polygraph,"Chantilly, VA",false,General Dynamics,,,,
+660,1008074138955,Front End Engineer,Full Stack Web Developer,"Boulder, CO",true,"SHOTOVER Systems, Inc.",,,,
+661,1007954790314,Senior Web Developer,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+662,1008017687281,Senior Web Developer,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$84,668 - $118,156 ",3.2,84668.0,118156.0
+663,1007823553877,Senior Web Developer,"Senior Salesforce Developer (Lightning Web Components, Apex, API)","Owings Mills, MD",false,T. Rowe Price,"$75,901 - $110,110 ",3.8,75901.0,110110.0
+664,1008079793339,Senior Web Developer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$100,000 - $125,000 ",4.5,100000.0,125000.0
+665,1007607350396,Senior Web Developer,Software Developer,Remote,true,TherapyNotes.com,"$88,063 - $125,385 ",4,88063.0,125385.0
+666,1006571921252,Senior Web Developer,Android Developer,"Palo Alto, CA",false,Stanford Health Care,"$80,000 - $100,000 ",4.1,80000.0,100000.0
+667,1008002876896,Senior Web Developer,Associate Developer,"Latham, NY",true,Effective Coverage LLC,"$100,000 - $125,000 ",3.8,100000.0,125000.0
+668,1007768087133,Senior Web Developer,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$85,000 - $110,000 ",4.3,85000.0,110000.0
+669,1008089092574,Senior Web Developer,Senior Developer,"Providence, UT",true,Eforce,"$57,237 - $83,672 ",3.4,57237.0,83672.0
+670,1007349470060,Senior Web Developer,Sr. Web PHP/LAMP Developer,"Los Angeles, CA",true,Curacao,"$100,000 ",3.8,100000.0,100000.0
+671,1007938044225,Senior Web Developer,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$75,000 - $125,000 ",3.7,75000.0,125000.0
+672,1008071784843,Senior Web Developer,Developer Experience Engineer,"Dallas, TX",true,Stratus Data Systems,"$69,203 - $93,156 ",3.9,69203.0,93156.0
+673,1007806904064,Senior Web Developer,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$69,276 - $101,401 ",4.3,69276.0,101401.0
+674,1008052431863,Senior Web Developer,Application Developer,"East Falmouth, MA",true,Associates of Cape Cod Inc,"$120,000 ",4.1,120000.0,120000.0
+675,1008076680883,Senior Web Developer,Java Developer,"Berkeley Heights, NJ",true,signature consultants,"$100,000 - $110,000 ",4.1,100000.0,110000.0
+676,1007923843916,Senior Web Developer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,$50 Per Hour,2.8,78000.0,78000.0
+677,1008062673549,Senior Web Developer,PHP Full Stack Web Developer,"Oklahoma City, OK",true,BealsCunningham Strategic Services,"$63,122 - $93,230 ",3.3,63122.0,93230.0
+678,1008086199196,Senior Web Developer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,"$59,758 - $84,224 ",4.2,59758.0,84224.0
+679,1008067179269,Senior Web Developer,Magento Developer,Remote,true,Cadence Labs,"$57,361 - $83,992 ",3.7,57361.0,83992.0
+680,1008091512712,Senior Web Developer,Senior Web Application Developer,Remote,true,Fund&Grow,"$65,000 - $85,000 ",4.1,65000.0,85000.0
+681,1008078902333,Senior Web Developer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$98,100 - $150,000 ",1.8,98100.0,150000.0
+682,1007927151667,Senior Web Developer,Senior Web Developer,Remote,true,Central Restaurant Products,"$45,029 - $67,171 ",,45029.0,67171.0
+683,1008032945707,Senior Web Developer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$70,000 - $80,000 ",,70000.0,80000.0
+684,1008067537698,Senior Web Developer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$100,000 - $150,000 ",,100000.0,150000.0
+685,1008073952805,Senior Web Developer,IT Applications Developer,"Monett, MO",true,PlayPower,,,,
+686,1008074476861,Senior Web Developer,Developer,"Stevensville, MD",true,Paul Reed Smith Guitars,,,,
+687,1007548306122,Senior Web Developer,Application Developer (Remote),"Clarksburg, WV",false,ManTech International Corporation,,,,
+688,1007631868058,Senior Web Developer,Junior .Net Developer,"Pompano Beach, FL",false,"Point Blank Enterprises, Inc.",,,,
+689,1008065613724,Senior Web Developer,Web Designer,"McKinney, TX",true,RightNow Media,,,,
+690,1007861789748,Senior Web Developer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,,,,
+691,1007954790314,Web Developer,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+692,1007823553877,Web Developer,"Senior Salesforce Developer (Lightning Web Components, Apex, API)","Owings Mills, MD",false,T. Rowe Price,"$75,901 - $110,110 ",3.8,75901.0,110110.0
+693,1008017687281,Web Developer,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$84,668 - $118,156 ",3.2,84668.0,118156.0
+694,1008079793339,Web Developer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$100,000 - $125,000 ",4,100000.0,125000.0
+695,1006571921252,Web Developer,Android Developer,"Palo Alto, CA",false,Stanford Health Care,"$88,063 - $125,385 ",4.5,88063.0,125385.0
+696,1007607350396,Web Developer,Software Developer,Remote,true,TherapyNotes.com,"$80,000 - $100,000 ",4.1,80000.0,100000.0
+697,1008002876896,Web Developer,Associate Developer,"Latham, NY",true,Effective Coverage LLC,"$100,000 - $125,000 ",4.3,100000.0,125000.0
+698,1007768087133,Web Developer,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$57,237 - $83,672 ",3.8,57237.0,83672.0
+699,1007938044225,Web Developer,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$69,276 - $101,401 ",3.4,69276.0,101401.0
+700,1008089092574,Web Developer,Senior Developer,"Providence, UT",true,Eforce,"$75,000 - $125,000 ",3.9,75000.0,125000.0
+701,1008076680883,Web Developer,Java Developer,"Berkeley Heights, NJ",true,signature consultants,"$69,203 - $93,156 ",4.3,69203.0,93156.0
+702,1007806904064,Web Developer,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$100,000 ",4.1,100000.0,100000.0
+703,1008052431863,Web Developer,Application Developer,"East Falmouth, MA",true,Associates of Cape Cod Inc,"$120,000 ",4.1,120000.0,120000.0
+704,1008071784843,Web Developer,Developer Experience Engineer,"Dallas, TX",true,Stratus Data Systems,"$100,000 - $110,000 ",3.8,100000.0,110000.0
+705,1007923843916,Web Developer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,"$63,122 - $93,230 ",3.7,63122.0,93230.0
+706,1008067179269,Web Developer,Magento Developer,Remote,true,Cadence Labs,"$85,085 - $181,885 ",1.8,85085.0,181885.0
+707,1008078902333,Web Developer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$59,758 - $84,224 ",4,59758.0,84224.0
+708,1007510812785,Web Developer,Flutter Developer Fullstack NYC (Streaming Video Web & App Exp. Required),"New York, NY",true,Confidential,$50 Per Hour,3.7,78000.0,78000.0
+709,1007927151667,Web Developer,Senior Web Developer,Remote,true,Central Restaurant Products,"$57,361 - $83,992 ",3.8,57361.0,83992.0
+710,1008032945707,Web Developer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$85,000 - $110,000 ",2.8,85000.0,110000.0
+711,1008091512712,Web Developer,Senior Web Application Developer,Remote,true,Fund&Grow,"$100,000 - $150,000 ",4.2,100000.0,150000.0
+712,1008067537698,Web Developer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$78,475 - $115,467 ",,78475.0,115467.0
+713,1007349470060,Web Developer,Sr. Web PHP/LAMP Developer,"Los Angeles, CA",true,Curacao,"$45,029 - $67,171 ",,45029.0,67171.0
+714,1008086199196,Web Developer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,"$72,969 - $98,421 ",,72969.0,98421.0
+715,1007861789748,Web Developer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,"$65,000 - $85,000 ",,65000.0,85000.0
+716,1008057316034,Web Developer,.NET Developer,"London, TX",false,Align Communications,"$98,100 - $150,000 ",,98100.0,150000.0
+717,1007631868058,Web Developer,Junior .Net Developer,"Pompano Beach, FL",false,"Point Blank Enterprises, Inc.",,,,
+718,1008049971095,Web Developer,GIS Web Developer,"Washington, DC",true,"One Zero Solutions, LLC",,,,
+719,1008073952805,Web Developer,IT Applications Developer,"Monett, MO",true,PlayPower,,,,
+720,1007548306122,Web Developer,Application Developer (Remote),"Clarksburg, WV",false,ManTech International Corporation,,,,
+721,1007840464982,Front End Engineer,Front End Web Developer,"Traverse City, MI",true,Knorr Marketing,"$50,790 - $72,540 ",2.3,50790.0,72540.0
+722,1008092216094,Front End Engineer,On-Site Web Developer,"Mesa, AZ",true,Infinity Dental Web,$24 - $50 Per Hour,4,37440.0,78000.0
+723,1007994922191,Front End Engineer,Web Application Developer - Cyber,"Portland, OR",false,Deloitte,"$87,801 - $124,244 ",4.4,87801.0,124244.0
+724,1008074138955,Front End Engineer,Full Stack Web Developer,"Boulder, CO",true,"SHOTOVER Systems, Inc.","$85,000 - $115,000 ",3.9,85000.0,115000.0
+725,1007611984163,Front End Engineer,Full Stack Web Developer - Entry Level,St Louis Park,false,Aston Technologies Inc.,$25 Per Hour,3.7,39000.0,39000.0
+726,1008005448180,Front End Engineer,Web Developer- Hybrid Schedule,"Chester, NY",false,Mediacom Communications Corporation,"$45,000 - $65,000 ",2,45000.0,65000.0
+727,1008088820343,Front End Engineer,Web Developer,"Minnetonka, MN",true,"Tax Materials, Inc.","$60,000 - $70,000 ",4.3,60000.0,70000.0
+728,1007869655862,Front End Engineer,Front End Web Developer,"Cincinnati, OH",true,ThinkWare,"$65,000 - $110,000 ",3.6,65000.0,110000.0
+729,1008063524012,Front End Engineer,In-House Web Developer,"Irvine, CA",true,Omega Accounting Solutions,"$70,000 - $90,000 ",3.6,70000.0,90000.0
+730,1007973297537,Front End Engineer,Junior Content Specialist/Web Developer,Remote,true,Sanametrix,$30 - $36 Per Hour,4.8,46800.0,56160.0
+731,1008076709776,Front End Engineer,Web Developer,"Fremont, NE",true,DPA Impact,$49 - $56 Per Hour,5,76440.0,87360.0
+732,1008089280526,Front End Engineer,"Front End Developer (TCLD-0714) // US or GC // On-site Chevy Chase, MD","Chevy Chase, MD",true,Dantech Corporation,"$122,151 - $132,833 ",2.9,122151.0,132833.0
+733,1007896000898,Front End Engineer,Front End Developer (React),Remote,true,Experfy Inc,$30 Per Hour,3.5,46800.0,46800.0
+734,1008083944556,Front End Engineer,Front End Developer,"San Francisco, CA",false,Underdog.io,"$43,277 - $62,785 ",4.2,43277.0,62785.0
+735,1008027935663,Front End Engineer,Assistant Web Developer,Maryland,true,ASSOCIATION OF WRITERS & WRITING PROGRAMS,"$70,000 - $75,000 ",4.4,70000.0,75000.0
+736,1007869574512,Front End Engineer,Front End Web Developer,"Tampa, FL",true,Artix Entertainment LLC,"$75,000 ",2.7,75000.0,75000.0
+737,1007567232400,Front End Engineer,Web Designer,"Costa Mesa, CA",true,The Brand Amp,"$60,000 - $65,000 ",4,60000.0,65000.0
+738,1008068025771,Front End Engineer,Full Stack Web Developer (Early Career),"Austin, TX",false,Apple,"$40,000 - $90,000 ",4.7,40000.0,90000.0
+739,1007749545832,Front End Engineer,Web Developer,"New York, NY",true,CNEWA,"$78,497 - $104,669 ",3.9,78497.0,104669.0
+740,1008087012225,Front End Engineer,Web Developer,Remote,true,Everlight Solar,"$52,000 - $65,000 ",4.3,52000.0,65000.0
+741,1008076715423,Front End Engineer,Front End Web Developer,"Waukesha, WI",true,iNET Web,"$65,000 - $80,000 ",4.4,65000.0,80000.0
+742,1008079005886,Front End Engineer,Principal Front End Web Developer,"Minneapolis, MN",false,HealthPartners,"$65,000 - $75,000 ",,65000.0,75000.0
+743,1008086090845,Front End Engineer,Junior Web Developer,"Harrisburg, PA",true,"Web Clients, LLC",$25 - $35 Per Hour,,39000.0,54600.0
+744,1008079608098,Front End Engineer,Frontend Web Developer,"Muskegon, MI",false,Creative Financial Staffing,$75 - $96 Per Hour,,117000.0,149760.0
+745,1008076352884,Front End Engineer,Jr. Web Developer,"Denver, CO",false,Think AOR,"$45,715 - $75,000 ",,45715.0,75000.0
+746,1007824213136,Front End Engineer,Front End Developer,"Fremont, CA",true,Exxact Corporation,"$75,000 - $100,000 ",,75000.0,100000.0
+747,1008091825950,Front End Engineer,Senior Mobile Developer,Remote,true,ComTec,,,,
+748,1008086015320,Front End Engineer,Web Application Developer,"Lebanon, OH",true,Palarum,,,,
+749,1008002265082,Front End Engineer,Web Developer II,Remote,false,Lightcast,,,,
+750,1008000375797,Front End Engineer,Full Stack Web Developer,"Nanuet, NY",true,NotaryLive,,,,
+751,1007954790314,Junior Web Developer,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+752,1007823553877,Junior Web Developer,"Senior Salesforce Developer (Lightning Web Components, Apex, API)","Owings Mills, MD",false,T. Rowe Price,"$75,901 - $110,110 ",3.8,75901.0,110110.0
+753,1008017687281,Junior Web Developer,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$84,668 - $118,156 ",3.2,84668.0,118156.0
+754,1008079793339,Junior Web Developer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$100,000 - $125,000 ",4,100000.0,125000.0
+755,1006571921252,Junior Web Developer,Android Developer,"Palo Alto, CA",false,Stanford Health Care,"$88,063 - $125,385 ",4.5,88063.0,125385.0
+756,1007607350396,Junior Web Developer,Software Developer,Remote,true,TherapyNotes.com,"$80,000 - $100,000 ",4.1,80000.0,100000.0
+757,1008002876896,Junior Web Developer,Associate Developer,"Latham, NY",true,Effective Coverage LLC,"$100,000 - $125,000 ",4.3,100000.0,125000.0
+758,1007768087133,Junior Web Developer,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$57,237 - $83,672 ",3.8,57237.0,83672.0
+759,1007938044225,Junior Web Developer,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$69,276 - $101,401 ",3.4,69276.0,101401.0
+760,1008089092574,Junior Web Developer,Senior Developer,"Providence, UT",true,Eforce,"$75,000 - $125,000 ",3.9,75000.0,125000.0
+761,1008076680883,Junior Web Developer,Java Developer,"Berkeley Heights, NJ",true,signature consultants,"$69,203 - $93,156 ",4.3,69203.0,93156.0
+762,1007806904064,Junior Web Developer,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$100,000 ",4.1,100000.0,100000.0
+763,1008052431863,Junior Web Developer,Application Developer,"East Falmouth, MA",true,Associates of Cape Cod Inc,"$120,000 ",4.1,120000.0,120000.0
+764,1008071784843,Junior Web Developer,Developer Experience Engineer,"Dallas, TX",true,Stratus Data Systems,"$100,000 - $110,000 ",3.8,100000.0,110000.0
+765,1007923843916,Junior Web Developer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,"$63,122 - $93,230 ",3.7,63122.0,93230.0
+766,1008067179269,Junior Web Developer,Magento Developer,Remote,true,Cadence Labs,"$85,085 - $181,885 ",1.8,85085.0,181885.0
+767,1008078902333,Junior Web Developer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$59,758 - $84,224 ",4,59758.0,84224.0
+768,1007510812785,Junior Web Developer,Flutter Developer Fullstack NYC (Streaming Video Web & App Exp. Required),"New York, NY",true,Confidential,$50 Per Hour,3.7,78000.0,78000.0
+769,1007927151667,Junior Web Developer,Senior Web Developer,Remote,true,Central Restaurant Products,"$57,361 - $83,992 ",3.8,57361.0,83992.0
+770,1008032945707,Junior Web Developer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$85,000 - $110,000 ",2.8,85000.0,110000.0
+771,1008091512712,Junior Web Developer,Senior Web Application Developer,Remote,true,Fund&Grow,"$100,000 - $150,000 ",4.2,100000.0,150000.0
+772,1008067537698,Junior Web Developer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$78,475 - $115,467 ",,78475.0,115467.0
+773,1007349470060,Junior Web Developer,Sr. Web PHP/LAMP Developer,"Los Angeles, CA",true,Curacao,"$45,029 - $67,171 ",,45029.0,67171.0
+774,1008086199196,Junior Web Developer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,"$72,969 - $98,421 ",,72969.0,98421.0
+775,1007861789748,Junior Web Developer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,"$65,000 - $85,000 ",,65000.0,85000.0
+776,1008057316034,Junior Web Developer,.NET Developer,"London, TX",false,Align Communications,"$98,100 - $150,000 ",,98100.0,150000.0
+777,1007631868058,Junior Web Developer,Junior .Net Developer,"Pompano Beach, FL",false,"Point Blank Enterprises, Inc.",,,,
+778,1008049971095,Junior Web Developer,GIS Web Developer,"Washington, DC",true,"One Zero Solutions, LLC",,,,
+779,1008073952805,Junior Web Developer,IT Applications Developer,"Monett, MO",true,PlayPower,,,,
+780,1007548306122,Junior Web Developer,Application Developer (Remote),"Clarksburg, WV",false,ManTech International Corporation,,,,
+781,1007954790314,Junior Web Developer,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+782,1008017687281,Junior Web Developer,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$84,668 - $118,156 ",3.2,84668.0,118156.0
+783,1007823553877,Junior Web Developer,"Senior Salesforce Developer (Lightning Web Components, Apex, API)","Owings Mills, MD",false,T. Rowe Price,"$75,901 - $110,110 ",3.8,75901.0,110110.0
+784,1008079793339,Junior Web Developer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$100,000 - $125,000 ",4.5,100000.0,125000.0
+785,1007607350396,Junior Web Developer,Software Developer,Remote,true,TherapyNotes.com,"$88,063 - $125,385 ",4,88063.0,125385.0
+786,1006571921252,Junior Web Developer,Android Developer,"Palo Alto, CA",false,Stanford Health Care,"$80,000 - $100,000 ",4.1,80000.0,100000.0
+787,1008002876896,Junior Web Developer,Associate Developer,"Latham, NY",true,Effective Coverage LLC,"$100,000 - $125,000 ",3.8,100000.0,125000.0
+788,1007768087133,Junior Web Developer,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$85,000 - $110,000 ",4.3,85000.0,110000.0
+789,1008089092574,Junior Web Developer,Senior Developer,"Providence, UT",true,Eforce,"$57,237 - $83,672 ",3.4,57237.0,83672.0
+790,1007349470060,Junior Web Developer,Sr. Web PHP/LAMP Developer,"Los Angeles, CA",true,Curacao,"$100,000 ",3.8,100000.0,100000.0
+791,1007938044225,Junior Web Developer,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$75,000 - $125,000 ",3.7,75000.0,125000.0
+792,1008071784843,Junior Web Developer,Developer Experience Engineer,"Dallas, TX",true,Stratus Data Systems,"$69,203 - $93,156 ",3.9,69203.0,93156.0
+793,1007806904064,Junior Web Developer,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$69,276 - $101,401 ",4.3,69276.0,101401.0
+794,1008052431863,Junior Web Developer,Application Developer,"East Falmouth, MA",true,Associates of Cape Cod Inc,"$120,000 ",4.1,120000.0,120000.0
+795,1008076680883,Junior Web Developer,Java Developer,"Berkeley Heights, NJ",true,signature consultants,"$100,000 - $110,000 ",4.1,100000.0,110000.0
+796,1007923843916,Junior Web Developer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,$50 Per Hour,2.8,78000.0,78000.0
+797,1008062673549,Junior Web Developer,PHP Full Stack Web Developer,"Oklahoma City, OK",true,BealsCunningham Strategic Services,"$63,122 - $93,230 ",3.3,63122.0,93230.0
+798,1008086199196,Junior Web Developer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,"$59,758 - $84,224 ",4.2,59758.0,84224.0
+799,1008067179269,Junior Web Developer,Magento Developer,Remote,true,Cadence Labs,"$57,361 - $83,992 ",3.7,57361.0,83992.0
+800,1008091512712,Junior Web Developer,Senior Web Application Developer,Remote,true,Fund&Grow,"$65,000 - $85,000 ",4.1,65000.0,85000.0
+801,1008078902333,Junior Web Developer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$98,100 - $150,000 ",1.8,98100.0,150000.0
+802,1007927151667,Junior Web Developer,Senior Web Developer,Remote,true,Central Restaurant Products,"$45,029 - $67,171 ",,45029.0,67171.0
+803,1008032945707,Junior Web Developer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$70,000 - $80,000 ",,70000.0,80000.0
+804,1008067537698,Junior Web Developer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$100,000 - $150,000 ",,100000.0,150000.0
+805,1008073952805,Junior Web Developer,IT Applications Developer,"Monett, MO",true,PlayPower,,,,
+806,1008074476861,Junior Web Developer,Developer,"Stevensville, MD",true,Paul Reed Smith Guitars,,,,
+807,1007548306122,Junior Web Developer,Application Developer (Remote),"Clarksburg, WV",false,ManTech International Corporation,,,,
+808,1007631868058,Junior Web Developer,Junior .Net Developer,"Pompano Beach, FL",false,"Point Blank Enterprises, Inc.",,,,
+809,1008065613724,Junior Web Developer,Web Designer,"McKinney, TX",true,RightNow Media,,,,
+810,1007861789748,Junior Web Developer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,,,,
+811,1008067179269,Web Developer,Magento Developer,Remote,true,Cadence Labs,"$100,000 - $110,000 ",3.7,100000.0,110000.0
+812,1008091419590,Web Developer,.Net / Angular Web Software Developer,Remote,true,Fuel Travel,"$60,000 - $65,000 ",4.4,60000.0,65000.0
+813,1008087012225,Web Developer,Web Developer,Remote,true,Everlight Solar,"$45,000 - $65,000 ",3.7,45000.0,65000.0
+814,1008005448180,Web Developer,Web Developer- Hybrid Schedule,"Chester, NY",false,Mediacom Communications Corporation,$22 - $24 Per Hour,5,34320.0,37440.0
+815,1008086420838,Web Developer,Project Coordinator/Web Designer,Remote,true,i-Showcase,"$80,000 - $120,000 ",3.3,80000.0,120000.0
+816,1007937029531,Web Developer,PHP Web Developer,"Roswell, GA",true,Konnektive Corporation,$60 - $65 Per Hour,5,93600.0,101400.0
+817,1008092198592,Web Developer,"Senior .NET Developer (Contract to Hire, No C2C)","Phoenix, AZ",true,"Exclusent, Inc.","$65,000 - $80,000 ",3.7,65000.0,80000.0
+818,1007840704016,Web Developer,Web Application Developer,"Fontana, CA",true,Williams-Sonoma-Supply Chain,$40 - $45 Per Hour,4,62400.0,70200.0
+819,1008074287715,Web Developer,React JS Front End Developer,Remote,true,Better Talent,$47 - $51 Per Hour,3.6,73320.0,79560.0
+820,1008086452334,Web Developer,Front End Developer,Remote,true,"Alipes, Inc","$95,000 - $110,000 ",3.6,95000.0,110000.0
+821,1008088370174,Web Developer,Developer,Remote,true,JGS Insurance,"$60,000 ",2.7,60000.0,60000.0
+822,1008088620354,Web Developer,Web Developer,Remote,true,"The Next Step, Inc.","$53,188 - $75,559 ",3.9,53188.0,75559.0
+823,1008089434599,Web Developer,Web Designer/Developer,"Cincinnati, OH",true,LCS - London Computer Systems,"$60,000 - $70,000 ",3.6,60000.0,70000.0
+824,1008088820343,Web Developer,Web Developer,"Minnetonka, MN",true,"Tax Materials, Inc.",$30 - $36 Per Hour,4.2,46800.0,56160.0
+825,1007973297537,Web Developer,Junior Content Specialist/Web Developer,Remote,true,Sanametrix,$49 - $56 Per Hour,5,76440.0,87360.0
+826,1008089280526,Web Developer,"Front End Developer (TCLD-0714) // US or GC // On-site Chevy Chase, MD","Chevy Chase, MD",true,Dantech Corporation,"$52,000 - $65,000 ",3.6,52000.0,65000.0
+827,1008086090845,Web Developer,Junior Web Developer,"Harrisburg, PA",true,"Web Clients, LLC","$84,525 - $92,563 ",3.8,84525.0,92563.0
+828,1008089027551,Web Developer,React Developer,Remote,true,Acquire Interactive,"$95,000 ",4.5,95000.0,95000.0
+829,1008082475268,Web Developer,Backend Developer,"Brooklyn, NY",true,Appliances Connection,$25 Per Hour,3.9,39000.0,39000.0
+830,1007611984163,Web Developer,Full Stack Web Developer - Entry Level,St Louis Park,false,Aston Technologies Inc.,"$40,000 - $50,000 ",,40000.0,50000.0
+831,1008058915943,Web Developer,Junior Web Developer,Remote,true,"POP Sells, LLC","$56,815 - $82,793 ",,56815.0,82793.0
+832,1008091816048,Web Developer,Web Developer,"Fredericksburg, VA",true,Federal Staffing Solutions Inc.,"$90,000 - $110,000 ",,90000.0,110000.0
+833,1008081628978,Web Developer,Developer,"Denver, CO",false,Janus Henderson,"$51,689 - $76,027 ",,51689.0,76027.0
+834,1008063124835,Web Developer,Web Developer,"Hilton Head Island, SC",true,Hilton Head Hospitality Company,"$60,000 - $200,000 ",,60000.0,200000.0
+835,1007921572319,Web Developer,Web Developer,"Wall, NJ",true,Trinity Solar Careers,"$78,000 ",,78000.0,78000.0
+836,1008086229805,Web Developer,eCommerce Web Developer - JavaScript Focus,Remote,true,oBundle,"$75,000 - $100,000 ",,75000.0,100000.0
+837,1008089023069,Web Developer,Senior React Web Developer,"New York, NY",true,Confidential,"$37,500 - $50,000 ",,37500.0,50000.0
+838,1007915758186,Web Developer,HTML Email Developer,Remote,true,Liberty University,"$49,000 - $77,739 ",,49000.0,77739.0
+839,1008091114716,Web Developer,Web Developer (NOT Remote),"Des Moines, IA",true,Flying Hippo,"$165,000 ",,165000.0,165000.0
+840,1007206138444,Web Developer,PHP Developer,Remote,true,Revint Solutions,,,,
+841,1007954790314,Web Developer,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+842,1008017687281,Web Developer,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$84,668 - $118,156 ",3.2,84668.0,118156.0
+843,1007823553877,Web Developer,"Senior Salesforce Developer (Lightning Web Components, Apex, API)","Owings Mills, MD",false,T. Rowe Price,"$75,901 - $110,110 ",3.8,75901.0,110110.0
+844,1008079793339,Web Developer,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$100,000 - $125,000 ",4.5,100000.0,125000.0
+845,1007607350396,Web Developer,Software Developer,Remote,true,TherapyNotes.com,"$88,063 - $125,385 ",4,88063.0,125385.0
+846,1006571921252,Web Developer,Android Developer,"Palo Alto, CA",false,Stanford Health Care,"$80,000 - $100,000 ",4.1,80000.0,100000.0
+847,1008002876896,Web Developer,Associate Developer,"Latham, NY",true,Effective Coverage LLC,"$100,000 - $125,000 ",3.8,100000.0,125000.0
+848,1007768087133,Web Developer,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$85,000 - $110,000 ",4.3,85000.0,110000.0
+849,1008089092574,Web Developer,Senior Developer,"Providence, UT",true,Eforce,"$57,237 - $83,672 ",3.4,57237.0,83672.0
+850,1007349470060,Web Developer,Sr. Web PHP/LAMP Developer,"Los Angeles, CA",true,Curacao,"$100,000 ",3.8,100000.0,100000.0
+851,1007938044225,Web Developer,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$75,000 - $125,000 ",3.7,75000.0,125000.0
+852,1008071784843,Web Developer,Developer Experience Engineer,"Dallas, TX",true,Stratus Data Systems,"$69,203 - $93,156 ",3.9,69203.0,93156.0
+853,1007806904064,Web Developer,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$69,276 - $101,401 ",4.3,69276.0,101401.0
+854,1008052431863,Web Developer,Application Developer,"East Falmouth, MA",true,Associates of Cape Cod Inc,"$120,000 ",4.1,120000.0,120000.0
+855,1008076680883,Web Developer,Java Developer,"Berkeley Heights, NJ",true,signature consultants,"$100,000 - $110,000 ",4.1,100000.0,110000.0
+856,1007923843916,Web Developer,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,$50 Per Hour,2.8,78000.0,78000.0
+857,1008062673549,Web Developer,PHP Full Stack Web Developer,"Oklahoma City, OK",true,BealsCunningham Strategic Services,"$63,122 - $93,230 ",3.3,63122.0,93230.0
+858,1008086199196,Web Developer,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,"$59,758 - $84,224 ",4.2,59758.0,84224.0
+859,1008067179269,Web Developer,Magento Developer,Remote,true,Cadence Labs,"$57,361 - $83,992 ",3.7,57361.0,83992.0
+860,1008091512712,Web Developer,Senior Web Application Developer,Remote,true,Fund&Grow,"$65,000 - $85,000 ",4.1,65000.0,85000.0
+861,1008078902333,Web Developer,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$98,100 - $150,000 ",1.8,98100.0,150000.0
+862,1007927151667,Web Developer,Senior Web Developer,Remote,true,Central Restaurant Products,"$45,029 - $67,171 ",,45029.0,67171.0
+863,1008032945707,Web Developer,Backend Web Developer,"Madison, WI",true,pc/nametag,"$70,000 - $80,000 ",,70000.0,80000.0
+864,1008067537698,Web Developer,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$100,000 - $150,000 ",,100000.0,150000.0
+865,1008073952805,Web Developer,IT Applications Developer,"Monett, MO",true,PlayPower,,,,
+866,1008074476861,Web Developer,Developer,"Stevensville, MD",true,Paul Reed Smith Guitars,,,,
+867,1007548306122,Web Developer,Application Developer (Remote),"Clarksburg, WV",false,ManTech International Corporation,,,,
+868,1007631868058,Web Developer,Junior .Net Developer,"Pompano Beach, FL",false,"Point Blank Enterprises, Inc.",,,,
+869,1008065613724,Web Developer,Web Designer,"McKinney, TX",true,RightNow Media,,,,
+870,1007861789748,Web Developer,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,,,,
+871,1007954790314,,Website Developer,"Columbia, SC",false,AgFirst Farm Credit Bank,"$43,117 - $62,592 ",4.1,43117.0,62592.0
+872,1008017687281,,SharePoint Web Developer,"Smyrna, TN",true,VI-JON,"$84,668 - $118,156 ",3.2,84668.0,118156.0
+873,1007823553877,,"Senior Salesforce Developer (Lightning Web Components, Apex, API)","Owings Mills, MD",false,T. Rowe Price,"$75,901 - $110,110 ",3.8,75901.0,110110.0
+874,1008079793339,,Web Applications Developer,"Wilton, CT",true,Tenth Mountain Recruiting,"$100,000 - $125,000 ",4.5,100000.0,125000.0
+875,1007607350396,,Software Developer,Remote,true,TherapyNotes.com,"$88,063 - $125,385 ",4,88063.0,125385.0
+876,1006571921252,,Android Developer,"Palo Alto, CA",false,Stanford Health Care,"$80,000 - $100,000 ",4.1,80000.0,100000.0
+877,1008002876896,,Associate Developer,"Latham, NY",true,Effective Coverage LLC,"$100,000 - $125,000 ",3.8,100000.0,125000.0
+878,1007768087133,,Net Developer,"Fort Belvoir, VA",true,"Paragon Systems, Inc.","$85,000 - $110,000 ",4.3,85000.0,110000.0
+879,1008089092574,,Senior Developer,"Providence, UT",true,Eforce,"$57,237 - $83,672 ",3.4,57237.0,83672.0
+880,1007349470060,,Sr. Web PHP/LAMP Developer,"Los Angeles, CA",true,Curacao,"$100,000 ",3.8,100000.0,100000.0
+881,1007938044225,,Web Developer,"Laurel, MD",false,Johns Hopkins Applied Physics Laboratory (APL),"$75,000 - $125,000 ",3.7,75000.0,125000.0
+882,1008071784843,,Developer Experience Engineer,"Dallas, TX",true,Stratus Data Systems,"$69,203 - $93,156 ",3.9,69203.0,93156.0
+883,1007806904064,,Full Stack Agile Web Developer,"Lake Orion, MI",true,Partech,"$69,276 - $101,401 ",4.3,69276.0,101401.0
+884,1008052431863,,Application Developer,"East Falmouth, MA",true,Associates of Cape Cod Inc,"$120,000 ",4.1,120000.0,120000.0
+885,1008076680883,,Java Developer,"Berkeley Heights, NJ",true,signature consultants,"$100,000 - $110,000 ",4.1,100000.0,110000.0
+886,1007923843916,,Full Stack Web Developer for Christian Ministry,"Duluth, GA",true,Living on the Edge with Chip Ingram Inc.,$50 Per Hour,2.8,78000.0,78000.0
+887,1008062673549,,PHP Full Stack Web Developer,"Oklahoma City, OK",true,BealsCunningham Strategic Services,"$63,122 - $93,230 ",3.3,63122.0,93230.0
+888,1008086199196,,Web Designer,"Omaha, NE",true,Flagship Restaurant Group,"$59,758 - $84,224 ",4.2,59758.0,84224.0
+889,1008067179269,,Magento Developer,Remote,true,Cadence Labs,"$57,361 - $83,992 ",3.7,57361.0,83992.0
+890,1008091512712,,Senior Web Application Developer,Remote,true,Fund&Grow,"$65,000 - $85,000 ",4.1,65000.0,85000.0
+891,1008078902333,,Web Application Developer,"Columbia, MO",true,MidwayUSA,"$98,100 - $150,000 ",1.8,98100.0,150000.0
+892,1007927151667,,Senior Web Developer,Remote,true,Central Restaurant Products,"$45,029 - $67,171 ",,45029.0,67171.0
+893,1008032945707,,Backend Web Developer,"Madison, WI",true,pc/nametag,"$70,000 - $80,000 ",,70000.0,80000.0
+894,1008067537698,,Sr. Web Developer,"Oceanside, CA",false,MagnaFlow,"$100,000 - $150,000 ",,100000.0,150000.0
+895,1008073952805,,IT Applications Developer,"Monett, MO",true,PlayPower,,,,
+896,1008074476861,,Developer,"Stevensville, MD",true,Paul Reed Smith Guitars,,,,
+897,1007548306122,,Application Developer (Remote),"Clarksburg, WV",false,ManTech International Corporation,,,,
+898,1007631868058,,Junior .Net Developer,"Pompano Beach, FL",false,"Point Blank Enterprises, Inc.",,,,
+899,1008065613724,,Web Designer,"McKinney, TX",true,RightNow Media,,,,
+900,1007861789748,,"Web Developer, Full Stack $50,000 sign on",United States,true,Priority Courier Experts,,,,

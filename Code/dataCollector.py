@@ -1,8 +1,6 @@
 import pandas as pd
 
 
-Dev_file_path = 'Data/devImpactDataSet.csv'
-# read the data and store data in DataFrame titled melbourne_data
+Dev_file_path = 'Code\web_dev.csv'
 DevImpact = pd.read_csv(Dev_file_path) 
-# print a summary of the data in Melbourne data
 DevImpact.describe()
